@@ -1,0 +1,18 @@
+
+2024-06-02 12:04
+
+Status:
+Tag: [[Data Structures & Algorithms]] | [[Graph]] | [[DFS]]
+
+## Overview
+The problem asks us to create a [[Deep Copy]], (completely new graph) of a graph. 
+
+## Solution
+Use a DFS to traverse thru the graph. Keep a lookup table which maps old nodes to the newly created nodes.
+
+Each node you visit, create a new node and add it to the lookup table. For each visited node, DFS on the neighbors and return the newly created node when all the neighbors have been processed.
+
+
+## References:
+[Leetcode Link](https://leetcode.com/problems/clone-graph/description/)
+[Youtube Link](https://www.youtube.com/watch?v=2_wcyPfoanw)
