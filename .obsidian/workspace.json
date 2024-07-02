@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Full Notes/Programming/Problems/LeetCode/1915. Number of Wonderful Strings.md",
+                "file": "6 - Full Notes/Programming/Frameworks/React Native/React Native Starter.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6 - Full Notes/Programming/Problems/LeetCode/1915. Number of Wonderful Strings.md",
+                "file": "6 - Full Notes/Programming/Frameworks/React Native/React Native Starter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6 - Full Notes/Programming/Problems/LeetCode/1915. Number of Wonderful Strings.md",
+                "file": "6 - Full Notes/Programming/Frameworks/React Native/React Native Starter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6 - Full Notes/Programming/Problems/LeetCode/1915. Number of Wonderful Strings.md"
+                "file": "6 - Full Notes/Programming/Frameworks/React Native/React Native Starter.md"
               }
             }
           }
@@ -173,6 +173,9 @@
   },
   "active": "58f9b46150290b34",
   "lastOpenFiles": [
+    "0 - TODO/Tailwind CSS.md",
+    "6 - Full Notes/Programming/Frameworks/React Native/React Native Starter.md",
+    "6 - Full Notes/Programming/Problems/LeetCode/1915. Number of Wonderful Strings.md",
     "6 - Full Notes/Programming/Problems/LeetCode/2192. All Ancestors of a Node in a Directed Acyclic Graph.md",
     "6 - Full Notes/Programming/Concepts/Digraph.md",
     "0 - TODO/TODO.md",
@@ -184,7 +187,6 @@
     "1 - Rough Notes/Topological Sort.md",
     "6 - Full Notes/Programming/Data Structures & Algorithms/Trees/Binary Search Tree.md",
     "6 - Full Notes/Programming/Concepts/DAG.md",
-    "6 - Full Notes/Programming/Problems/LeetCode/1915. Number of Wonderful Strings.md",
     "1 - Rough Notes/DAG.md",
     "6 - Full Notes/Programming/Problems/LeetCode/2192. All Ancestors of a Node in a Directed Acyclic Graph",
     "1 - Rough Notes/2192. All Ancestors of a Node in a Directed Acyclic Graph",
@@ -207,8 +209,6 @@
     "3 - Tags/BST.md",
     "6 - Full Notes/Programming/Data Structures & Algorithms/Trees/In Order Traversal.md",
     "6 - Full Notes/Programming/Data Structures & Algorithms/Trees/DFS.md",
-    "6 - Full Notes/Programming/Data Structures & Algorithms/Bitwise/Bitwise.md",
-    "6 - Full Notes/Programming/Data Structures & Algorithms/Queues/MinQueue.md",
     "2 - Source Material/Diagrams/Design Google Maps.png",
     "2 - Source Material/Diagrams/Design Google Maps 1.png",
     "Pasted image 20240529133154.png",
