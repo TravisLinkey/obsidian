@@ -4,47 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "674f16c3e9e23db0",
+        "id": "d08303023031228d",
         "type": "tabs",
         "children": [
           {
-            "id": "00f107c5becc964d",
+            "id": "6e05dd8b717b9a71",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6 - Full Notes/Programming/Problems/LeetCode/268. Missing Number.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c719bc2be4016665",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6 - Full Notes/Programming/Data Structures & Algorithms/Trees/In Order Traversal.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "58f9b46150290b34",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6 - Full Notes/Programming/Frameworks/React Native/React Native Starter.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 458.5
+    "width": 204.5
   },
   "right": {
     "id": "4b7f478917d12190",
@@ -110,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6 - Full Notes/Programming/Frameworks/React Native/React Native Starter.md",
+                "file": "6 - Full Notes/Programming/Projects/Photo Backup Server.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6 - Full Notes/Programming/Frameworks/React Native/React Native Starter.md",
+                "file": "6 - Full Notes/Programming/Projects/Photo Backup Server.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6 - Full Notes/Programming/Frameworks/React Native/React Native Starter.md"
+                "file": "6 - Full Notes/Programming/Projects/Photo Backup Server.md"
               }
             }
           }
@@ -171,9 +142,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "58f9b46150290b34",
+  "active": "0e70ac006bb0b5f4",
   "lastOpenFiles": [
-    "0 - TODO/Tailwind CSS.md",
+    "6 - Full Notes/Programming/Projects",
+    "6 - Full Notes/Programming/Services/Cloud/AWS/Concepts/Presigned URLs.md",
+    "6 - Full Notes/Programming/Services/Cloud/AWS/Concepts",
+    "3 - Tags/Personal Projects.md",
+    "6 - Full Notes/Programming/Projects/Photo Backup Server.md",
+    "6 - Full Notes/Programming/Frameworks/Tailwind CSS.md",
+    "UX/UI.md",
+    "UX",
     "6 - Full Notes/Programming/Frameworks/React Native/React Native Starter.md",
     "6 - Full Notes/Programming/Problems/LeetCode/1915. Number of Wonderful Strings.md",
     "6 - Full Notes/Programming/Problems/LeetCode/2192. All Ancestors of a Node in a Directed Acyclic Graph.md",
@@ -202,13 +180,6 @@
     "6 - Full Notes/Programming/Data Structures & Algorithms/Binary Search",
     "6 - Full Notes/Programming/Data Structures & Algorithms/Sliding Window/Sliding Window.md",
     "6 - Full Notes/Programming/Data Structures & Algorithms/Bitwise",
-    "6 - Full Notes/Programming/Data Structures & Algorithms/Sliding Window",
-    "6 - Full Notes/Programming/Data Structures & Algorithms/Strings & Arrays",
-    "6 - Full Notes/Programming/Data Structures & Algorithms/Trees/Heap.md",
-    "6 - Full Notes/Programming/Data Structures & Algorithms/Trees/Quadtree.md",
-    "3 - Tags/BST.md",
-    "6 - Full Notes/Programming/Data Structures & Algorithms/Trees/In Order Traversal.md",
-    "6 - Full Notes/Programming/Data Structures & Algorithms/Trees/DFS.md",
     "2 - Source Material/Diagrams/Design Google Maps.png",
     "2 - Source Material/Diagrams/Design Google Maps 1.png",
     "Pasted image 20240529133154.png",
