@@ -1,7 +1,24 @@
-- [ ] Doctor Appointment Scheduled
-- [x] Send back MyErgo
-- [x] Get Haircut
+-- Personal
 
-- [ ] Pay Car Registration
+- [x] Pay Car Registration
+- [ ] Doctor Appointment Scheduled
 - [ ] Car Serviced
-- [x] Renew Drivers License
+
+--- Photo Backup Server
+
+- [x] Lambda code to create thumbnail
+- [x] Terraform for thumbnail server
+    - [x] Lambda
+    - [x] S3 Bucket
+    - [x] EventBridge Lambda trigger
+- [ ] Get thumbnails from app
+- [ ]
+
+--- LiftsKit
+
+- [ ] Verify Google Play account
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+
