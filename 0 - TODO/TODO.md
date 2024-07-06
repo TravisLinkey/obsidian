@@ -11,8 +11,12 @@
     - [x] Lambda
     - [x] S3 Bucket
     - [x] EventBridge Lambda trigger
-- [ ] Get thumbnails from app
-- [ ]
+- [x] Get thumbnails from app
+
+- [ ] List directories
+- [ ] Select directories -> redirect to thumbnail display page
+- [ ] Delete directory
+- [ ] Delete thumbnail
 
 --- LiftsKit
 
