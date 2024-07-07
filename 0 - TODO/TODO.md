@@ -13,8 +13,8 @@
     - [x] EventBridge Lambda trigger
 - [x] Get thumbnails from app
 
-- [ ] List directories
-- [ ] Select directories -> redirect to thumbnail display page
+- [x] List directories (As folders)
+- [x] Select directories -> redirect to thumbnail display page
 - [ ] Delete directory
 - [ ] Delete thumbnail
 
