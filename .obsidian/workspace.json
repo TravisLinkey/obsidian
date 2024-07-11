@@ -11,8 +11,30 @@
             "id": "6e05dd8b717b9a71",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Identity and Federation/IAM/IAM.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "b46d20ea1c62ceee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "643d3aefadcbfcbd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Identity and Federation/IAM/Policies.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6 - Full Notes/Programming/Projects/Photo Backup Server.md",
+                "file": "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Identity and Federation/IAM/Policies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6 - Full Notes/Programming/Projects/Photo Backup Server.md",
+                "file": "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Identity and Federation/IAM/Policies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6 - Full Notes/Programming/Projects/Photo Backup Server.md"
+                "file": "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Identity and Federation/IAM/Policies.md"
               }
             }
           }
@@ -142,41 +164,47 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0e70ac006bb0b5f4",
+  "active": "643d3aefadcbfcbd",
   "lastOpenFiles": [
+    "0 - TODO/IAM Roles vs Resource Based Policies.md",
+    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Identity and Federation/Concepts/IAM Roles vs Resource Based Policies.md",
+    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Identity and Federation/Concepts",
+    "Pasted image 20240710200643.png",
+    "Pasted image 20240710200410.png",
+    "Pasted image 20240710200331.png",
+    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Identity and Federation/IAM/Policies.md",
+    "0 - TODO/Access Analyzer.md",
+    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Identity and Federation/IAM/Access Analyzer.md",
+    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Identity and Federation/IAM/Access Advisor.md",
+    "0 - TODO/Access Advisor.md",
+    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Identity and Federation/IAM/IAM.md",
+    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Identity and Federation/IAM/Policy.md",
+    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Identity and Federation/IAM/Resource Based Policies.md",
+    "0 - TODO/Resource Based Policies.md",
+    "0 - TODO/Principal.md",
+    "0 - TODO/Policies.md",
+    "0 - TODO/Cross Account Roles.md",
+    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Identity and Federation/IAM/Cross Account Roles.md",
+    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Identity and Federation/IAM/Service Roles.md",
+    "0 - TODO/Service Roles.md",
+    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/IAM/IAM.md",
+    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Identity and Federation/IAM/Users.md",
+    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Identity and Federation/IAM/Roles.md",
+    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Identity and Federation/IAM/Groups.md",
+    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Identity and Federation/IAM/EC2 Instance Roles.md",
+    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Identity and Federation/IAM",
+    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Identity and Federation",
+    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/IAM/EC2 Instance Roles.md",
+    "0 - TODO/EC2 Instance Roles.md",
     "6 - Full Notes/Programming/Projects",
     "6 - Full Notes/Programming/Services/Cloud/AWS/Concepts/Presigned URLs.md",
     "6 - Full Notes/Programming/Services/Cloud/AWS/Concepts",
     "3 - Tags/Personal Projects.md",
-    "6 - Full Notes/Programming/Projects/Photo Backup Server.md",
-    "6 - Full Notes/Programming/Frameworks/Tailwind CSS.md",
-    "UX/UI.md",
     "UX",
-    "6 - Full Notes/Programming/Frameworks/React Native/React Native Starter.md",
-    "6 - Full Notes/Programming/Problems/LeetCode/1915. Number of Wonderful Strings.md",
-    "6 - Full Notes/Programming/Problems/LeetCode/2192. All Ancestors of a Node in a Directed Acyclic Graph.md",
-    "6 - Full Notes/Programming/Concepts/Digraph.md",
-    "0 - TODO/TODO.md",
-    "0 - TODO/Digraph.md",
-    "0 - TODO/Testing.md",
     "0 - TODO",
-    "6 - Full Notes/Programming/Data Structures & Algorithms/Graphs/Topological Sort.md",
-    "1 - Rough Notes/Digraph.md",
-    "1 - Rough Notes/Topological Sort.md",
-    "6 - Full Notes/Programming/Data Structures & Algorithms/Trees/Binary Search Tree.md",
-    "6 - Full Notes/Programming/Concepts/DAG.md",
-    "1 - Rough Notes/DAG.md",
     "6 - Full Notes/Programming/Problems/LeetCode/2192. All Ancestors of a Node in a Directed Acyclic Graph",
-    "6 - Full Notes/Programming/Problems/LeetCode/Untitled.md",
-    "6 - Full Notes/Programming/Problems/LeetCode/268. Missing Number.md",
-    "6 - Full Notes/Programming/Problems/LeetCode/1438. Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit.md",
-    "6 - Full Notes/Programming/Data Structures & Algorithms/Intervals/Sweep Line.md",
-    "6 - Full Notes/Programming/Problems/LeetCode/1382. Balance a Binary Search Tree.md",
     "6 - Full Notes/Programming/Data Structures & Algorithms/Intervals",
-    "6 - Full Notes/Programming/Data Structures & Algorithms/Binary Search/Binary Search.md",
     "6 - Full Notes/Programming/Data Structures & Algorithms/Binary Search",
-    "6 - Full Notes/Programming/Data Structures & Algorithms/Sliding Window/Sliding Window.md",
-    "6 - Full Notes/Programming/Data Structures & Algorithms/Bitwise",
     "2 - Source Material/Diagrams/Design Google Maps.png",
     "2 - Source Material/Diagrams/Design Google Maps 1.png",
     "Pasted image 20240529133154.png",
