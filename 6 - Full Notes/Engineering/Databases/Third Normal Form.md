@@ -27,11 +27,11 @@ Rule: Ensure that all non-key columns are fully dependent on the [[Primary Key]]
 | 1 | Science |
 | 2 | English |
 
-| Course | Instructor |
-| -------------- | --------------- |
-| Math | Dr. Smith |
-| Science | Dr. Brown |
-| English | Dr. Green |
+| Course  | Instructor |
+| ------- | ---------- |
+| Math    | Dr. Smith  |
+| Science | Dr. Brown  |
+| English | Dr. Green  |
 
 | Instructor | InstructorOffice |
 | -------------- | --------------- |

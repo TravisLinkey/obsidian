@@ -4,34 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d08303023031228d",
+        "id": "c79538cad8851294",
         "type": "tabs",
         "children": [
           {
-            "id": "6e05dd8b717b9a71",
+            "id": "97dddb85d52bf3e4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Identity and Federation/IAM/IAM.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "b46d20ea1c62ceee",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "643d3aefadcbfcbd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Identity and Federation/IAM/Policies.md",
+                "file": "6 - Full Notes/Engineering/Databases/Third Normal Form.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Identity and Federation/IAM/Policies.md",
+                "file": "6 - Full Notes/Engineering/Databases/Third Normal Form.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Identity and Federation/IAM/Policies.md",
+                "file": "6 - Full Notes/Engineering/Databases/Third Normal Form.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Identity and Federation/IAM/Policies.md"
+                "file": "6 - Full Notes/Engineering/Databases/Third Normal Form.md"
               }
             }
           }
@@ -164,20 +146,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "643d3aefadcbfcbd",
+  "active": "97dddb85d52bf3e4",
   "lastOpenFiles": [
-    "6 - Full Notes/Engineering/Databases/Primary Key.md",
-    "0 - TODO/Primary Key.md~",
-    "6 - Full Notes/Engineering/Databases/Composite Primary Key.md",
-    "3 - Tags/Relational Database.md",
-    "6 - Full Notes/Engineering/Databases/Higher Normal Form.md",
-    "6 - Full Notes/Engineering/Databases/Third Normal Form.md",
     "6 - Full Notes/Engineering/Databases/Second Normal Form.md",
+    "6 - Full Notes/Engineering/Databases/Primary Key.md",
+    "6 - Full Notes/Engineering/Databases/Higher Normal Form.md",
+    "6 - Full Notes/Engineering/Databases/First Normal Form.md",
+    "6 - Full Notes/Engineering/Databases/Database Normalization.md",
+    "6 - Full Notes/Engineering/Databases/Composite Primary Key.md",
+    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Identity and Federation/IAM/Policies.md",
+    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Identity and Federation/IAM/IAM.md",
+    "0 - TODO/Primary Key.md~",
+    "3 - Tags/Relational Database.md",
+    "6 - Full Notes/Engineering/Databases/Third Normal Form.md",
     "0 - TODO/First Normal Form.md",
     "0 - TODO/Composite Primary Key.md",
     "0 - TODO/Primary Key.md",
-    "6 - Full Notes/Engineering/Databases/First Normal Form.md",
-    "6 - Full Notes/Engineering/Databases/Database Normalization.md",
     "6 - Full Notes/Engineering/Databases",
     "6 - Full Notes/Engineering",
     "0 - TODO/Higher Normal Form.md",
@@ -200,9 +184,7 @@
     "Pasted image 20240710200643.png",
     "Pasted image 20240710200410.png",
     "Pasted image 20240710200331.png",
-    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Identity and Federation/IAM/Policies.md",
     "0 - TODO/Access Analyzer.md",
-    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Identity and Federation/IAM/Access Analyzer.md",
     "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Identity and Federation/IAM",
     "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Identity and Federation",
     "2 - Source Material/Diagrams/Design Google Maps.png",
