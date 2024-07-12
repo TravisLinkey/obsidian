@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d08303023031228d",
+        "id": "8cc703e9001c7ee0",
         "type": "tabs",
         "children": [
           {
-            "id": "6e05dd8b717b9a71",
+            "id": "c5a22ee74a23c5f7",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -65,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 204.5
+    "width": 200
   },
   "right": {
     "id": "4b7f478917d12190",
@@ -81,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6 - Full Notes/Programming/Projects/Photo Backup Server.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6 - Full Notes/Programming/Projects/Photo Backup Server.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "6 - Full Notes/Programming/Projects/Photo Backup Server.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -142,41 +138,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0e70ac006bb0b5f4",
+  "active": "c5a22ee74a23c5f7",
   "lastOpenFiles": [
-    "6 - Full Notes/Programming/Projects",
+    "6 - Full Notes/Private/Work/Projects/DPP Elavon SNS Subscription.md",
+    "6 - Full Notes/Private/Work/Tags/Digital Checkout.md",
     "6 - Full Notes/Programming/Services/Cloud/AWS/Concepts/Presigned URLs.md",
+    "6 - Full Notes/Programming/Services/Cloud/AWS/Concepts/Fanout Pattern.md",
     "6 - Full Notes/Programming/Services/Cloud/AWS/Concepts",
-    "3 - Tags/Personal Projects.md",
     "6 - Full Notes/Programming/Projects/Photo Backup Server.md",
+    "6 - Full Notes/Programming/Projects",
+    "6 - Full Notes/Programming/Problems/LeetCode/2582. Pass the Pillow.md",
+    "6 - Full Notes/Programming/Problems/LeetCode/2181. Merge Nodes in Between Zones.md",
+    "6 - Full Notes/Programming/Problems/LeetCode/133. Clone Graph.md",
     "6 - Full Notes/Programming/Frameworks/Tailwind CSS.md",
-    "UX/UI.md",
-    "UX",
+    "6 - Full Notes/Programming/Frameworks/React Native/React Native.md",
     "6 - Full Notes/Programming/Frameworks/React Native/React Native Starter.md",
-    "6 - Full Notes/Programming/Problems/LeetCode/1915. Number of Wonderful Strings.md",
+    "6 - Full Notes/Programming/Frameworks/React Native",
+    "3 - Tags/Linked List.md",
+    "3 - Tags/Leetcode.md",
+    "3 - Tags/John Deere.md",
+    "3 - Tags/Elavon Service.md",
+    "1 - Rough Notes/Ideas.md",
+    "1 - Rough Notes",
+    "0 - TODO/Create Checkout Status.md",
+    "6 - Full Notes/Create Checkout Status.md",
+    "6 - Full Notes/Programming/Problems/LeetCode/Clone Graph.md",
+    "6 - Full Notes/Programming/Frameworks/React Native.md",
+    "0 - TODO/Photo Backup Server.md",
+    "6 - Full Notes/Private/Credentials/Github/personal access token.md",
+    "6 - Full Notes/Private/Credentials/Github",
+    "6 - Full Notes/Private/Credentials",
+    "6 - Full Notes/Private/Github",
+    "6 - Full Notes/Private/personal access token.md",
+    "6 - Full Notes/Private/Work/Tags",
+    "6 - Full Notes/Private/Work/Notes/Elavon Certification.md",
+    "6 - Full Notes/Private/Work/Notes",
+    "6 - Full Notes/Private/Work/Projects",
     "6 - Full Notes/Programming/Problems/LeetCode/2192. All Ancestors of a Node in a Directed Acyclic Graph.md",
-    "6 - Full Notes/Programming/Concepts/Digraph.md",
-    "0 - TODO/TODO.md",
-    "0 - TODO/Digraph.md",
-    "0 - TODO/Testing.md",
-    "0 - TODO",
-    "6 - Full Notes/Programming/Data Structures & Algorithms/Graphs/Topological Sort.md",
-    "1 - Rough Notes/Digraph.md",
-    "1 - Rough Notes/Topological Sort.md",
-    "6 - Full Notes/Programming/Data Structures & Algorithms/Trees/Binary Search Tree.md",
-    "6 - Full Notes/Programming/Concepts/DAG.md",
-    "1 - Rough Notes/DAG.md",
-    "6 - Full Notes/Programming/Problems/LeetCode/2192. All Ancestors of a Node in a Directed Acyclic Graph",
-    "6 - Full Notes/Programming/Problems/LeetCode/Untitled.md",
-    "6 - Full Notes/Programming/Problems/LeetCode/268. Missing Number.md",
-    "6 - Full Notes/Programming/Problems/LeetCode/1438. Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit.md",
-    "6 - Full Notes/Programming/Data Structures & Algorithms/Intervals/Sweep Line.md",
-    "6 - Full Notes/Programming/Problems/LeetCode/1382. Balance a Binary Search Tree.md",
-    "6 - Full Notes/Programming/Data Structures & Algorithms/Intervals",
-    "6 - Full Notes/Programming/Data Structures & Algorithms/Binary Search/Binary Search.md",
-    "6 - Full Notes/Programming/Data Structures & Algorithms/Binary Search",
-    "6 - Full Notes/Programming/Data Structures & Algorithms/Sliding Window/Sliding Window.md",
-    "6 - Full Notes/Programming/Data Structures & Algorithms/Bitwise",
     "2 - Source Material/Diagrams/Design Google Maps.png",
     "2 - Source Material/Diagrams/Design Google Maps 1.png",
     "Pasted image 20240529133154.png",
