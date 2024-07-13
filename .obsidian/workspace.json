@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Full Notes/Engineering/Databases/Third Normal Form.md",
+                "file": "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Identity and Federation/STS/STS.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6 - Full Notes/Engineering/Databases/Third Normal Form.md",
+                "file": "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Identity and Federation/STS/STS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6 - Full Notes/Engineering/Databases/Third Normal Form.md",
+                "file": "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Identity and Federation/STS/STS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6 - Full Notes/Engineering/Databases/Third Normal Form.md"
+                "file": "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Identity and Federation/STS/STS.md"
               }
             }
           }
@@ -148,42 +148,42 @@
   },
   "active": "97dddb85d52bf3e4",
   "lastOpenFiles": [
+    "6 - Full Notes/StudyPlan/Week 1.md",
+    "6 - Full Notes/StudyPlan/Week 1",
+    "6 - Full Notes/StudyPlan",
+    "0 - TODO/Session Tags.md",
+    "0 - TODO/CloudTrail.md",
+    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Security/CloudTrail/CloudTrail.md",
+    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Security/CloudTrail",
+    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Identity and Federation/STS/STS.md",
+    "0 - TODO/Granting Access to a Third Party.md",
+    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Identity and Federation/STS/Granting Access to a Third Party.md",
+    "0 - TODO/Identity Federation.md",
+    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Identity and Federation/IAM/IAM Role.md",
+    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Identity and Federation/IAM/IAM Policy.md",
+    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Identity and Federation/IAM/IAM Roles.md",
+    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Identity and Federation/IAM/IAM Policies.md",
+    "0 - TODO/Principle of Least Privilege.md",
+    "6 - Full Notes/Programming/Concepts/Principle of Least Privilege.md",
+    "3 - Tags/Best Practices.md",
+    "6 - Full Notes/Untitled.md",
+    "0 - TODO/Best Practices.md",
+    "3 - Tags/Identity Federation.md",
+    "6 - Full Notes/Engineering/Databases/Third Normal Form.md",
+    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Identity and Federation/STS",
+    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Other Services",
+    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Machine Learning",
+    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/VPC",
+    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Migration",
+    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Cost Control",
+    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Deployment and Instance Management",
     "0 - TODO/Zone of Trust.md",
     "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Identity and Federation/IAM/Access Analyzer/Zone of Trust.md",
-    "0 - TODO/Zone of Trust.md~",
     "3 - Tags/Security.md",
     "0 - TODO/Security.md",
     "6 - Full Notes/Programming/Services/Cloud/AWS/Concepts/Resources.md",
     "6 - Full Notes/Programming/Services/Cloud/AWS/Concepts/Principal.md",
     "0 - TODO/Principal.md",
-    "0 - TODO/Resources.md",
-    "6 - Full Notes/Engineering/Databases/Third Normal Form.md",
-    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Identity and Federation/IAM/Access Analyzer/Policy Validation.md",
-    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Identity and Federation/IAM/Access Analyzer/Policy Generation.md",
-    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Identity and Federation/IAM/Access Analyzer.md",
-    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Identity and Federation/IAM/Access Analyzer/Access Analyzer.md",
-    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Identity and Federation/IAM/Access Analyzer",
-    "0 - TODO/Policy Generation.md",
-    "0 - TODO/Policy Validation.md",
-    "3 - Tags/Cloud Function.md",
-    "6 - Full Notes/Untitled.md",
-    "0 - TODO/Layers.md",
-    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Compute/Lambda/Layers.md",
-    "0 - TODO/Cloud Function.md",
-    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Compute/Lambda/Lambda.md",
-    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Compute/Lambda",
-    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Compute/Lambda.md",
-    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Compute",
-    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Serverless",
-    "0 - TODO/Permission Boundaries.md",
-    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Identity and Federation/IAM/Permission Boundaries.md",
-    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Identity and Federation/IAM/Organization.md",
-    "0 - TODO/Organization.md",
-    "0 - TODO/Primary Key.md~",
-    "6 - Full Notes/Engineering/Databases",
-    "6 - Full Notes/Engineering",
-    "6 - Full Notes/Software/Neovim/Add Images.md~",
-    "6 - Full Notes/Software/Neovim",
     "Pasted image 20240710200643.png",
     "Pasted image 20240710200410.png",
     "Pasted image 20240710200331.png",

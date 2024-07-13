@@ -19,7 +19,7 @@ Rule: Ensure that all non-key columns are fully dependent on the [[Primary Key]]
 | 1 | Science | Dr. Brown | Room 102 |
 | 2 | English | Dr. Green | Room 103 |
 
-3NF:
+**3NF:**
 
 | StudentId | Course |
 | -------------- | --------------- |
