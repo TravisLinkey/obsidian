@@ -1,5 +1,5 @@
 
-Tags: [[AWS]] | [[IAM]]
+Tags: [[AWS]] | [[IAM]] | [[STS]]
 
 Tags that you pass when you assume an [[IAM Roles]] or federate user in [[STS]]
 
