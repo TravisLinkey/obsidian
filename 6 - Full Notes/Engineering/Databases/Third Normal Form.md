@@ -1,5 +1,5 @@
 
-Tags: [[Relational Database]] | 
+Tags: [[Relational Database]]
 
 ## Third Normal Form = 3NF
 
@@ -9,9 +9,9 @@ Tags: [[Relational Database]] |
 Rule: Ensure that all non-key columns are fully dependent on the [[Primary Key]]. This means eliminating partial dependencies where a non-key column is dependent on part of a [[Composite Primary Key]].
 
 - Database must be in the [[First Normal Form]] & [[Second Normal Form]]
-- No transative dependency - All fields must only be determinable by the primary/composite key, not by other keys.
+- No transitive dependency - All fields must only be determinable by the primary/composite key, not by other keys.
 
-#### Example: Split a table into two to seperate data that is dependent on only a part of the primary key.
+#### Example: Split a table into two to separate data that is dependent on only a part of the primary key.
 
 | StudentId | Course | Instructor | InstructorOffice |
 | --------------- | --------------- | --------------- | --------------- |
@@ -40,7 +40,7 @@ Rule: Ensure that all non-key columns are fully dependent on the [[Primary Key]]
 | Dr. Green | Room 103 |
 
 #### Explanation
-The transitive dependenvy that needed to be removed is the dependency between `InstructorOffice` and `Instructor`.
+The transitive dependency that needed to be removed is the dependency between `InstructorOffice` and `Instructor`.
 
 A transitive dependency occurs when a non-key column depends on another non-key column, which in turn depends on the [[Primary Key]]. In this case, `InstructorOffice` depends on `Instructor` which depends on `Course`. Therefore, `InstructorOffice` is transitively dependent on `Course` through the `Instructor`.
 
