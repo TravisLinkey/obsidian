@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Identity and Federation/STS/STS.md",
+                "file": "6 - Full Notes/Programming/Projects/Knowledge Notification System/Knowledge Notification System.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a9f39af6da6a83e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Full Notes/Programming/Projects/Knowledge Notification System/Tasks.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c486c933d9182762",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Full Notes/Software/Git/Errors.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Identity and Federation/STS/STS.md",
+                "file": "6 - Full Notes/Software/Git/Errors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Identity and Federation/STS/STS.md",
+                "file": "6 - Full Notes/Software/Git/Errors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,16 +150,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Identity and Federation/STS/STS.md"
+                "file": "6 - Full Notes/Software/Git/Errors.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,8 +171,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "97dddb85d52bf3e4",
+  "active": "c486c933d9182762",
   "lastOpenFiles": [
+    "6 - Full Notes/Private/Credentials/Github/creds.md",
+    "6 - Full Notes/Private/Credentials/Github",
+    "6 - Full Notes/Private/Credentials",
+    "6 - Full Notes/Programming/Projects/Knowledge Notification System/Knowledge Notification System.md",
+    "6 - Full Notes/Programming/Projects/Knowledge Notification System/Tasks.md",
+    "6 - Full Notes/Personal Project.md",
+    "5 - Template/Main Note.md",
+    "6 - Full Notes/New_Test.md",
+    "6 - Full Notes/Programming/Projects/Knowledge Notification System/TODO.md",
+    "6 - Full Notes/Programming/Projects/Photo Backup Server/Photo Backup Server.md",
+    "6 - Full Notes/Programming/Projects/Photo Backup Server",
+    "6 - Full Notes/Programming/Projects/Knowledge Notification System",
+    "4 - Indexes/Go.md",
+    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Identity and Federation/STS/STS.md",
+    "0 - TODO/Knowledge Notification System.md",
+    "6 - Full Notes/Programming/Languages/Go/Initialize Project.md",
+    "6 - Full Notes/Programming/Languages/Go/Getting Started.md",
+    "6 - Full Notes/Programming/Languages/Go",
     "6 - Full Notes/Programming/Concepts/SAML.md",
     "6 - Full Notes/Programming/Concepts/OpenID Connect.md",
     "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Identity and Federation/STS/Session Tags.md",
@@ -161,29 +204,11 @@
     "0 - TODO/IDP.md",
     "0 - TODO/Federated User.md",
     "0 - TODO/MFA.md",
-    "0 - TODO/SAML.md",
-    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Identity and Federation/STS/STS.md",
-    "6 - Full Notes/Programming/Problems/LeetCode/2751. Robot Collisions.md",
-    "6 - Full Notes/Programming/Problems/LeetCode/Concepts/Lookup Table.md",
     "6 - Full Notes/Programming/Problems/LeetCode/Concepts",
-    "0 - TODO/Lookup Table.md",
-    "0 - TODO/2751. Robot Collisions.md",
-    "6 - Full Notes/StudyPlan/Week 1.md",
     "6 - Full Notes/StudyPlan/Week 1",
     "6 - Full Notes/StudyPlan",
-    "0 - TODO/Session Tags.md",
-    "0 - TODO/CloudTrail.md",
-    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Security/CloudTrail/CloudTrail.md",
     "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Security/CloudTrail",
-    "0 - TODO/Granting Access to a Third Party.md",
-    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Identity and Federation/STS/Granting Access to a Third Party.md",
-    "0 - TODO/Identity Federation.md",
     "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Identity and Federation/STS",
-    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Other Services",
-    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Machine Learning",
-    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/VPC",
-    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Migration",
-    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Cost Control",
     "Pasted image 20240710200643.png",
     "Pasted image 20240710200410.png",
     "Pasted image 20240710200331.png",

@@ -15,7 +15,7 @@ Use these commands to get a go project working from scratch
 
 #### Details
 
-1. go mod init 
+1. go mod init <git-url>
     - Creates a module to manage dependencies 
 
 2. go get . 

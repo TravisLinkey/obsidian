@@ -1,14 +1,11 @@
 Tags: [[AWS]] | [[Identity & Federation]]
 
-
 ### Overview
 AWS Security Token Service is a web service that enables you to request temporary, limited-privilege credentials for users.
 
-Allows you to assume [[Roles]] across different accounts, within the same accounts, and allows for identity federation.
-
+Allows you to assume [[IAM Roles]] across different accounts, within the same accounts, and allows for identity federation.
 
 ### Use Cases
-
 - Provide access for an [[IAM]] user in one AWS account that you own to access a [[Resources]] in another account that you own.
 - Provide access to [[IAM]] users in AWS accounts owned by third parties.
 - Provide access for services offered by AWS to AWS [[Resources]].
