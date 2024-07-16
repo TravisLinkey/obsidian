@@ -37,14 +37,34 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Full Notes/Software/Git/Errors.md",
+                "file": "0 - TODO/Something_Again.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "60b4200f536b0d32",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0 - TODO/Amazon Cognito.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0bd3585a58f8bda0",
+            "type": "leaf",
+            "state": {
+              "type": "notification-dashboard-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -110,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6 - Full Notes/Software/Git/Errors.md",
+                "file": "0 - TODO/Amazon Cognito.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6 - Full Notes/Software/Git/Errors.md",
+                "file": "0 - TODO/Amazon Cognito.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6 - Full Notes/Software/Git/Errors.md"
+                "file": "0 - TODO/Amazon Cognito.md"
               }
             }
           }
@@ -159,7 +179,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -171,12 +192,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c486c933d9182762",
+  "active": "0bd3585a58f8bda0",
   "lastOpenFiles": [
+    "0 - TODO/Amazon Cognito.md",
+    "0 - TODO/TODO.md",
+    "0 - TODO/Something_Again.md",
+    "6 - Full Notes/Programming/Projects/Knowledge Notification System/Knowledge Notification System.md",
+    "6 - Full Notes/Software/Git/Errors.md",
+    "0 - TODO/File.md",
     "6 - Full Notes/Private/Credentials/Github/creds.md",
     "6 - Full Notes/Private/Credentials/Github",
     "6 - Full Notes/Private/Credentials",
-    "6 - Full Notes/Programming/Projects/Knowledge Notification System/Knowledge Notification System.md",
     "6 - Full Notes/Programming/Projects/Knowledge Notification System/Tasks.md",
     "6 - Full Notes/Personal Project.md",
     "5 - Template/Main Note.md",
@@ -198,12 +224,7 @@
     "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Identity and Federation/STS/Important APIs.md",
     "6 - Full Notes/Programming/Concepts/MFA.md",
     "6 - Full Notes/Programming/Concepts/IDP.md",
-    "0 - TODO/Amazon Cognito.md",
     "0 - TODO/OpenID Connect.md",
-    "6 - Full Notes/Programming/Concepts/Federated User.md",
-    "0 - TODO/IDP.md",
-    "0 - TODO/Federated User.md",
-    "0 - TODO/MFA.md",
     "6 - Full Notes/Programming/Problems/LeetCode/Concepts",
     "6 - Full Notes/StudyPlan/Week 1",
     "6 - Full Notes/StudyPlan",
