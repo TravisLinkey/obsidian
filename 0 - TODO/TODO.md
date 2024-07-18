@@ -33,3 +33,8 @@
 - [ ] LSP for Go
 - [ ] LSP for terraform
 
+
+--- Obsidian Notification Plugin
+
+- [ ] Only get notifications that are last_reviewed > 5 days
+- [ ] Create statefile to watch directory structure
