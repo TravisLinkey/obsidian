@@ -1,5 +1,5 @@
 
-Tags: [[TODO]]
+Tags: [[6 - Full Notes/Homes/New/TODO]]
 
 This video should help showing images in nvim
 

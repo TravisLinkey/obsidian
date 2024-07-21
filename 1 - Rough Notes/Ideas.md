@@ -3,13 +3,12 @@
 
 - [ ] An Obsidian plugin that helps you review notes (randomly pick a note to review)
 - [ ] An Obsidian plugin that helps you tag your notes (selects notes that are missing tags)
-- [ ]
 
 
 ### Go project ideas
 
 - [ ] Personal Knowlege Management System 
-    - [[Knowledge Notification System]]
+    - [[6 - Full Notes/Programming/Projects/Note Reviewer/Note Reviewer]]
     - Smart note linking
 
 

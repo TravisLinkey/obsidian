@@ -9,5 +9,5 @@
 	- [x] update location
 
 ### References
-- [[Knowledge Notification System]]
+- [[6 - Full Notes/Programming/Projects/Note Reviewer/Note Reviewer]]
 
