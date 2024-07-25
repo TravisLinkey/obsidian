@@ -13,22 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0 - TODO/Note Reviewer.md",
+                "file": "6 - Full Notes/Private/Professional/Interviews/Companies/Rocket Companies.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "200a0b2a1b91d76c",
+            "id": "e327469ee26965aa",
             "type": "leaf",
             "state": {
-              "type": "notification-dashboard-view",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "6 - Full Notes/Private/Professional/Interviews/Companies/Millenium Space Systems.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0 - TODO/Note Reviewer.md",
+                "file": "6 - Full Notes/Private/Professional/Interviews/Companies/Rocket Companies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0 - TODO/Note Reviewer.md",
+                "file": "6 - Full Notes/Private/Professional/Interviews/Companies/Rocket Companies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,12 +137,52 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0 - TODO/Note Reviewer.md"
+                "file": "6 - Full Notes/Private/Professional/Interviews/Companies/Rocket Companies.md"
               }
+            }
+          },
+          {
+            "id": "5f01ef56f15bd4ac",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "7ec070070018b244",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "430f5067e6a5b488",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "fb8051bc351887f9",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "e895a2cd4cdc9baf",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
@@ -157,34 +200,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "200a0b2a1b91d76c",
+  "active": "0d328d713c19770a",
   "lastOpenFiles": [
-    "0 - TODO/1110. Delete Nodes and Return Forest.md",
+    "6 - Full Notes/Private/Professional/Interviews/Companies/Millenium Space Systems.md",
+    "6 - Full Notes/Private/Professional/Interviews/Companies",
+    "0 - TODO/2191. Sort the Jumbled Numbers.md",
+    "6 - Full Notes/Private/Professional/Interviews/Companies/Rocket Companies.md",
+    "6 - Full Notes/Notes.md",
+    "3 - Tags/Prep.md",
+    "6 - Full Notes/Programming/Languages/TypeScript.md",
+    "0 - TODO/Right Join.md",
     "0 - TODO/Matrix.md",
-    "0 - TODO/2392. Build a Matrix with Conditions.md",
-    "6 - Full Notes/ADR/Read Heavy Workloads.md",
+    "6 - Full Notes/Private/Work/John Deere/Projects/DPP Elavon SNS Subscriptions.md",
+    "6 - Full Notes/Private/Work/John Deere/Projects/Elavon Lambda Alarms.md",
+    "6 - Full Notes/Programming/Design Patterns/Creational/Singleton.md",
+    "6 - Full Notes/Programming/Problems/LeetCode/Amazon/200. Number of Islands.md",
+    "6 - Full Notes/Software/Git/Errors.md",
+    "3 - Tags/Documentation.md",
     "0 - TODO/Note Reviewer.md",
+    "6 - Full Notes/Programming/Frameworks/Cypress.md",
+    "0 - TODO/RxDB.md",
+    "6 - Full Notes/Programming/Projects/Note Reviewer/Challenges.md",
+    "6 - Full Notes/Programming/Problems/LeetCode/1110. Delete Nodes and Return Forest.md",
+    "6 - Full Notes/Programming/Problems/LeetCode/2392. Build a Matrix with Conditions.md",
+    "6 - Full Notes/ADR/Read Heavy Workloads.md",
     "1 - Rough Notes/Ideas.md",
     "0 - TODO/LiftsKit.md",
     "1 - Rough Notes/SOMETHING.md",
     "1 - Rough Notes/ANOTHER.md",
-    "0 - TODO/LSP.md",
-    "0 - TODO/Nvim.md",
-    "0 - TODO/Personal.md",
-    "0 - TODO/Photo Backup Server.md",
-    "0 - TODO/Right Join.md",
-    "0 - TODO/Terraform.md",
-    "0 - TODO/Untitled.md",
-    "6 - Full Notes/Private/Professional/Professional References.md",
-    "6 - Full Notes/Software/Neovim/Neovim.md",
-    "6 - Full Notes/Programming/Projects/Note Reviewer/Note Reviewer.md",
-    "6 - Full Notes/Private/Professional/Interviews/Questions/Application Questions.md",
-    "0 - TODO/CREATED.md",
-    "4 - Indexes/TODO.md",
-    "3 - Tags/TODO.md",
-    "6 - Full Notes/Programming/Design Principles/REST.md",
-    "0 - TODO/Amazon Cognito.md",
-    "3 - Tags/LiftsKit.md",
     "6 - Full Notes/Private/Credentials/Github",
     "6 - Full Notes/Private/Credentials",
     "6 - Full Notes/Programming/Projects/Photo Backup Server",
@@ -194,7 +237,6 @@
     "6 - Full Notes/StudyPlan/Week 1",
     "6 - Full Notes/StudyPlan",
     "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Security/CloudTrail",
-    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Identity and Federation/STS",
     "Pasted image 20240710200643.png",
     "Pasted image 20240710200410.png",
     "Pasted image 20240710200331.png",
