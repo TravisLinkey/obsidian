@@ -13,10 +13,18 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Full Notes/Private/Professional/Interviews/Companies/Rocket Companies.md",
+                "file": "6 - Full Notes/Private/Professional/Professional References.md",
                 "mode": "source",
                 "source": false
               }
+            }
+          },
+          {
+            "id": "00965991f0892e6f",
+            "type": "leaf",
+            "state": {
+              "type": "notification-dashboard-view",
+              "state": {}
             }
           },
           {
@@ -31,7 +39,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6 - Full Notes/Private/Professional/Interviews/Companies/Rocket Companies.md",
+                "file": "6 - Full Notes/Private/Professional/Professional References.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6 - Full Notes/Private/Professional/Interviews/Companies/Rocket Companies.md",
+                "file": "6 - Full Notes/Private/Professional/Professional References.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6 - Full Notes/Private/Professional/Interviews/Companies/Rocket Companies.md"
+                "file": "6 - Full Notes/Private/Professional/Professional References.md"
               }
             }
           },
@@ -200,12 +209,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0d328d713c19770a",
+  "active": "00965991f0892e6f",
   "lastOpenFiles": [
+    "6 - Full Notes/Programming/Problems/LeetCode/2. Add Two Numbers.md",
+    "6 - Full Notes/Private/Professional/Professional References.md",
+    "6 - Full Notes/Private/Professional/Interviews/Companies/Rocket Companies.md",
     "6 - Full Notes/Private/Professional/Interviews/Companies/Millenium Space Systems.md",
     "6 - Full Notes/Private/Professional/Interviews/Companies",
     "0 - TODO/2191. Sort the Jumbled Numbers.md",
-    "6 - Full Notes/Private/Professional/Interviews/Companies/Rocket Companies.md",
     "6 - Full Notes/Notes.md",
     "3 - Tags/Prep.md",
     "6 - Full Notes/Programming/Languages/TypeScript.md",
@@ -227,7 +238,6 @@
     "1 - Rough Notes/Ideas.md",
     "0 - TODO/LiftsKit.md",
     "1 - Rough Notes/SOMETHING.md",
-    "1 - Rough Notes/ANOTHER.md",
     "6 - Full Notes/Private/Credentials/Github",
     "6 - Full Notes/Private/Credentials",
     "6 - Full Notes/Programming/Projects/Photo Backup Server",
