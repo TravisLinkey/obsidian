@@ -1,9 +1,7 @@
 
 Tags: [[Fixes]]
 
-
 ----------------------------------------
-
 ### Error
 
 - "Please make sure you have the correct access rights and the repository exists"

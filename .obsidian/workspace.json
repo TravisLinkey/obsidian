@@ -20,35 +20,35 @@
             }
           },
           {
+            "id": "9ee590a7bbacd5d9",
+            "type": "leaf",
+            "state": {
+              "type": "notification-dashboard-view",
+              "state": {}
+            }
+          },
+          {
             "id": "dbfebf960408c007",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0 - TODO/Photo Backup Server.md",
+                "file": "6 - Full Notes/Software/Git/Errors.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "1a5f46fb12f495c0",
+            "id": "edad07329610a9cf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Rough Notes/Ideas.md",
+                "file": "6 - Full Notes/Private/Credentials/Github/creds.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "edbac66b29ddad6c",
-            "type": "leaf",
-            "state": {
-              "type": "notification-dashboard-view",
-              "state": {}
             }
           }
         ],
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0 - TODO/Rocket Companies.md",
+                "file": "6 - Full Notes/Private/Credentials/Github/creds.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0 - TODO/Rocket Companies.md",
+                "file": "6 - Full Notes/Private/Credentials/Github/creds.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0 - TODO/Rocket Companies.md"
+                "file": "6 - Full Notes/Private/Credentials/Github/creds.md"
               }
             }
           },
@@ -221,13 +221,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "edbac66b29ddad6c",
+  "active": "edad07329610a9cf",
   "lastOpenFiles": [
+    "6 - Full Notes/Software/Obsidian/Deploy Plugin.md",
+    "6 - Full Notes/Software/Obsidian",
+    "0 - TODO/Deploy Plugin.md",
+    "6 - Full Notes/Software/Git/Errors.md",
+    "0 - TODO/Photo Backup Server.md",
+    "0 - TODO/Rocket Companies.md",
+    "3 - Tags/Identity Federation.md",
+    "0 - TODO/Ideas.md",
     "6 - Full Notes/Programming/Problems/LeetCode/2045. Second Minimum Time to Reach Destination.md",
     "0 - TODO/2045. Second Minimum Time to Reach Destination.md",
-    "0 - TODO/Rocket Companies.md",
-    "1 - Rough Notes/Ideas.md",
-    "0 - TODO/Photo Backup Server.md",
     "0 - TODO/Terraform.md",
     "0 - TODO/Amazon Cognito.md",
     "0 - TODO/LSP.md",
@@ -249,16 +254,11 @@
     "3 - Tags/Debate.md",
     "3 - Tags/Rhetoric.md",
     "4 - Indexes/Philosophy.md",
-    "6 - Full Notes/Philosophy/Fallacies/ad hominem.md",
     "6 - Full Notes/Philosophy/Fallacies",
-    "6 - Full Notes/Philosophy/Concepts/Thought Terminating Cliche.md",
     "6 - Full Notes/Philosophy/Concepts",
-    "6 - Full Notes/Philosophy/Thought Terminating Cliche.md",
     "6 - Full Notes/Philosophy",
-    "0 - TODO/Thought Terminating Cliche.md",
     "6 - Full Notes/Programming/Languages/SQL/Notes",
     "6 - Full Notes/Programming/Languages/SQL/Practice",
-    "6 - Full Notes/Programming/Languages/SQL/Concepts",
     "Pasted image 20240710200643.png",
     "Pasted image 20240710200410.png",
     "Pasted image 20240710200331.png",

@@ -1,8 +1,4 @@
 
-Tags: [[]] | 
-
-
-
 ### References
 - [[STS]]
 
