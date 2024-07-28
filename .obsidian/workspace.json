@@ -4,43 +4,55 @@
     "type": "split",
     "children": [
       {
-        "id": "f5fb72699f146232",
+        "id": "dae25b0530401373",
         "type": "tabs",
         "children": [
           {
-            "id": "0d328d713c19770a",
+            "id": "73475bdc1a7768ed",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Full Notes/Private/Professional/Professional References.md",
+                "file": "0 - TODO/Rocket Companies.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "00965991f0892e6f",
+            "id": "dbfebf960408c007",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0 - TODO/Photo Backup Server.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1a5f46fb12f495c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - Rough Notes/Ideas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "edbac66b29ddad6c",
             "type": "leaf",
             "state": {
               "type": "notification-dashboard-view",
               "state": {}
             }
-          },
-          {
-            "id": "e327469ee26965aa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6 - Full Notes/Private/Professional/Interviews/Companies/Millenium Space Systems.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -106,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6 - Full Notes/Private/Professional/Professional References.md",
+                "file": "0 - TODO/Rocket Companies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6 - Full Notes/Private/Professional/Professional References.md",
+                "file": "0 - TODO/Rocket Companies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6 - Full Notes/Private/Professional/Professional References.md"
+                "file": "0 - TODO/Rocket Companies.md"
               }
             }
           },
@@ -209,44 +221,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "00965991f0892e6f",
+  "active": "edbac66b29ddad6c",
   "lastOpenFiles": [
-    "6 - Full Notes/Programming/Problems/LeetCode/2. Add Two Numbers.md",
-    "6 - Full Notes/Private/Professional/Professional References.md",
-    "6 - Full Notes/Private/Professional/Interviews/Companies/Rocket Companies.md",
-    "6 - Full Notes/Private/Professional/Interviews/Companies/Millenium Space Systems.md",
-    "6 - Full Notes/Private/Professional/Interviews/Companies",
-    "0 - TODO/2191. Sort the Jumbled Numbers.md",
-    "6 - Full Notes/Notes.md",
-    "3 - Tags/Prep.md",
-    "6 - Full Notes/Programming/Languages/TypeScript.md",
-    "0 - TODO/Right Join.md",
-    "0 - TODO/Matrix.md",
-    "6 - Full Notes/Private/Work/John Deere/Projects/DPP Elavon SNS Subscriptions.md",
-    "6 - Full Notes/Private/Work/John Deere/Projects/Elavon Lambda Alarms.md",
-    "6 - Full Notes/Programming/Design Patterns/Creational/Singleton.md",
-    "6 - Full Notes/Programming/Problems/LeetCode/Amazon/200. Number of Islands.md",
-    "6 - Full Notes/Software/Git/Errors.md",
-    "3 - Tags/Documentation.md",
-    "0 - TODO/Note Reviewer.md",
-    "6 - Full Notes/Programming/Frameworks/Cypress.md",
-    "0 - TODO/RxDB.md",
-    "6 - Full Notes/Programming/Projects/Note Reviewer/Challenges.md",
-    "6 - Full Notes/Programming/Problems/LeetCode/1110. Delete Nodes and Return Forest.md",
-    "6 - Full Notes/Programming/Problems/LeetCode/2392. Build a Matrix with Conditions.md",
-    "6 - Full Notes/ADR/Read Heavy Workloads.md",
+    "6 - Full Notes/Programming/Problems/LeetCode/2045. Second Minimum Time to Reach Destination.md",
+    "0 - TODO/2045. Second Minimum Time to Reach Destination.md",
+    "0 - TODO/Rocket Companies.md",
     "1 - Rough Notes/Ideas.md",
-    "0 - TODO/LiftsKit.md",
-    "1 - Rough Notes/SOMETHING.md",
-    "6 - Full Notes/Private/Credentials/Github",
-    "6 - Full Notes/Private/Credentials",
-    "6 - Full Notes/Programming/Projects/Photo Backup Server",
-    "6 - Full Notes/Programming/Projects/Note Reviewer",
-    "6 - Full Notes/Programming/Languages/Go",
-    "6 - Full Notes/Programming/Problems/LeetCode/Concepts",
-    "6 - Full Notes/StudyPlan/Week 1",
-    "6 - Full Notes/StudyPlan",
-    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Security/CloudTrail",
+    "0 - TODO/Photo Backup Server.md",
+    "0 - TODO/Terraform.md",
+    "0 - TODO/Amazon Cognito.md",
+    "0 - TODO/LSP.md",
+    "6 - Full Notes/Programming/Languages/TypeScript/Concepts/Type.md",
+    "6 - Full Notes/Programming/Languages/TypeScript/Concepts/Interface.md",
+    "6 - Full Notes/Programming/Languages/TypeScript/Concepts",
+    "6 - Full Notes/Programming/Languages/TypeScript/Interface vs. Type.md",
+    "6 - Full Notes/Programming/Languages/TypeScript/Interface.md",
+    "6 - Full Notes/Programming/Languages/TypeScript/Type.md",
+    "6 - Full Notes/Programming/Languages/JavaScript/JavaScript.md",
+    "6 - Full Notes/Programming/Languages/NodeJS/NodeJS.md",
+    "6 - Full Notes/Programming/Languages/NodeJS",
+    "6 - Full Notes/Programming/Languages/JavaScript",
+    "6 - Full Notes/Programming/Languages/TypeScript/TypeScript.md",
+    "6 - Full Notes/Programming/Languages/TypeScript",
+    "0 - TODO/Type.md",
+    "0 - TODO/Interface.md",
+    "0 - TODO/Interface vs. Type.md",
+    "3 - Tags/Debate.md",
+    "3 - Tags/Rhetoric.md",
+    "4 - Indexes/Philosophy.md",
+    "6 - Full Notes/Philosophy/Fallacies/ad hominem.md",
+    "6 - Full Notes/Philosophy/Fallacies",
+    "6 - Full Notes/Philosophy/Concepts/Thought Terminating Cliche.md",
+    "6 - Full Notes/Philosophy/Concepts",
+    "6 - Full Notes/Philosophy/Thought Terminating Cliche.md",
+    "6 - Full Notes/Philosophy",
+    "0 - TODO/Thought Terminating Cliche.md",
+    "6 - Full Notes/Programming/Languages/SQL/Notes",
+    "6 - Full Notes/Programming/Languages/SQL/Practice",
+    "6 - Full Notes/Programming/Languages/SQL/Concepts",
     "Pasted image 20240710200643.png",
     "Pasted image 20240710200410.png",
     "Pasted image 20240710200331.png",

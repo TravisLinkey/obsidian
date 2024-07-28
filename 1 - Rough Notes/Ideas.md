@@ -1,4 +1,4 @@
-
+Tags: [[4 - Indexes/TODO|TODO]]
 ### Ideas for future projects
 
 - [ ] An Obsidian plugin that helps you review notes (randomly pick a note to review)
@@ -7,7 +7,7 @@
 
 ### Go project ideas
 
-- [ ] Personal Knowlege Management System 
+- [ ] Personal Knowledge Management System 
     - [[6 - Full Notes/Programming/Projects/Note Reviewer/Note Reviewer]]
     - Smart note linking
 
