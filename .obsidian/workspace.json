@@ -4,31 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "b7e368186a57b34a",
+        "id": "1dad3f58c98a1374",
         "type": "tabs",
         "children": [
           {
-            "id": "8aebd1997ab84480",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0 - TODO/Active Directory.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e3f445971da532d5",
+            "id": "3e554afbbc05d875",
             "type": "leaf",
             "state": {
               "type": "notification-dashboard-view",
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0 - TODO/Active Directory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0 - TODO/Active Directory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "0 - TODO/Active Directory.md"
-              }
+              "state": {}
             }
           },
           {
@@ -197,14 +180,31 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e3f445971da532d5",
+  "active": "3e554afbbc05d875",
   "lastOpenFiles": [
+    "6 - Full Notes/Programming/Problems/LeetCode/1105. Filing Bookcase Shelves.md",
+    "1 - Rough Notes/Python.md",
+    "6 - Full Notes/Programming/Languages/Python/Python.md",
+    "6 - Full Notes/Programming/Languages/Python",
+    "6 - Full Notes/Programming/Problems/LeetCode/322. Coin Change.md",
+    "6 - Full Notes/Programming/Concepts/Recursion.md",
+    "1 - Rough Notes/Recursion.md",
+    "6 - Full Notes/Programming/Problems/LeetCode/2053. Kth Distinct String in an Array.md",
+    "3 - Tags/Frequency Table.md",
+    "1 - Rough Notes/Frequency Table.md",
+    "3 - Tags/Hash Table.md",
+    "6 - Full Notes/Programming/Problems/LeetCode/Concepts/Lookup Table.md",
+    "1 - Rough Notes/Hash Table.md",
+    "1 - Rough Notes/2053. Kth Distinct String in an Array.md",
+    "1 - Rough Notes/Something.md",
     "6 - Full Notes/Private/Professional/Interviews/Strategy/Elevator Pitch.md",
+    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Identity and Federation/Cognito/Cognito.md",
+    "1 - Rough Notes/Amazon Cognito.md",
+    "0 - TODO/Active Directory.md",
     "6 - Full Notes/Hack.md",
     "6 - Full Notes/Programming/Languages/Hack.md",
     "1 - Rough Notes/Elevator Pitch.md",
     "1 - Rough Notes/Elavator Pitch.md",
-    "0 - TODO/Active Directory.md",
     "1 - Rough Notes/Ideas.md",
     "0 - TODO/SQL Practice.md",
     "0 - TODO/LiftsKit.md",
@@ -217,24 +217,7 @@
     "home/travis",
     "home",
     "undefined/storage/stateFile_OLD.csv",
-    "undefined/storage",
     "1 - Rough Notes/322. Coin Change.md",
-    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Identity and Federation/STS/STS.md",
-    "1 - Rough Notes/1105. Filing Bookcase Shelves.md",
-    "6 - Full Notes/Programming/Problems/LeetCode/1653. Minimum Deletions to Make String Balanced.md",
-    "1 - Rough Notes/1653. Minimum Deletions to Make String Balanced.md",
-    "6 - Full Notes/Private/Professional/Interviews/Companies/Harbinger Automotive.md",
-    "1 - Rough Notes/Harbinger Automotive.md",
-    "0 - TODO/Rocket Companies.md",
-    "0 - TODO/Amazon Cognito.md",
-    "1 - Rough Notes/Amazon Cognito.md",
-    "1 - Rough Notes/Testing.md",
-    "3 - Tags/Identity & Federation.md",
-    "0 - TODO/Identity Federation.md",
-    "6 - Full Notes/Untitled 1.md",
-    "6 - Full Notes/Untitled 2.md",
-    "6 - Full Notes/Untitled 3.md",
-    "6 - Full Notes/Untitled 4.md",
     "Pasted image 20240710200643.png",
     "Pasted image 20240710200410.png",
     "Pasted image 20240710200331.png",

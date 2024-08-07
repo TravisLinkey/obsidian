@@ -1,7 +1,7 @@
 
 2024-07-21 16:33
 
-Tags: [[Note Reviewer]]
+Tags: [[6 - Full Notes/Projects/Note Reviewer/Note Reviewer]]
 
 ### Requirements
 
@@ -22,6 +22,6 @@ I do not want to open up this plugin to making server calls to a DB, so this lim
 After some research, I have come to discover [[RxDB]], which should help storing data locally and add query functionality for the front end application.
 
 ### References
-- [[Note Reviewer]]
+- [[6 - Full Notes/Projects/Note Reviewer/Note Reviewer]]
 - [RxDB Link](https://rxdb.info/)
 

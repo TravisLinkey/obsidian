@@ -8,7 +8,7 @@ Tags: [[4 - Indexes/TODO|TODO]]
 ### Go project ideas
 
 - [ ] Personal Knowledge Management System 
-    - [[6 - Full Notes/Programming/Projects/Note Reviewer/Note Reviewer]]
+    - [[6 - Full Notes/Projects/Note Reviewer/Note Reviewer]]
     - Smart note linking
 
 

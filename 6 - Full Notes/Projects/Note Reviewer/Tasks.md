@@ -9,5 +9,5 @@
 	- [x] update location
 
 ### References
-- [[6 - Full Notes/Programming/Projects/Note Reviewer/Note Reviewer]]
+- [[6 - Full Notes/Projects/Note Reviewer/Note Reviewer]]
 
