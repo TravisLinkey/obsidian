@@ -7,7 +7,12 @@ An open standard for exchanging authentication and authorization data between pa
 
 An XML-based markup language for security assertions.
 
+### Concepts
+
+- [[SAML 2.0 Federation - AWS API Access]]
+- [[SAML 2.0 Federation - ADFS]]
+
 ### References
 - [[IDP]]
-- [[Amazon Cognito]]
-
+- [[Cognito]]
+- [[Active Directory]]

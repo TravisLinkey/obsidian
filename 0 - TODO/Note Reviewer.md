@@ -12,10 +12,12 @@ Tags: [[4 - Indexes/TODO|TODO]]
 - [x] Create Bookmarked
 - [x] Create filter for tags
 
-- [ ] Events:
-    - [ ] delete
-    - [ ] rename
-    - [ ] create
+- [x] Events:
+    - [x] delete
+    - [x] rename
+    - [x] create
+    - [ ] modify - scan for changes in `Tags`
+
 
 ### References
 - [[6 - Full Notes/Projects/Note Reviewer/Note Reviewer|Note Reviewer]]

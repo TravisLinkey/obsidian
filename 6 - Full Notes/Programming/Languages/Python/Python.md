@@ -3,7 +3,3 @@
 
 A great language
 
-
-### References
-- [[]]
-
