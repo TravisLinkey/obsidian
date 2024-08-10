@@ -11,7 +11,7 @@ Allow for users defined on-prem to connect to AWS.
 
 Users are only defined on-prem. (Not in AWS)
 
-**Suppports MFA**
+**Supports MFA**
 
 ### References
 - [[AWS Directory Services]]

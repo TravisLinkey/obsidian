@@ -1,10 +1,10 @@
 
-Tags: [[STS]] | [[Amazon Cognito]]
+Tags: [[STS]] | [[Cognito]]
 
 Stands for Identity Provider
 
 #### Example providers:
-- [[Amazon Cognito]]
+- [[Cognito]]
 - Login with Amazon
 - Facebook
 - Google

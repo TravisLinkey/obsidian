@@ -4,15 +4,43 @@
     "type": "split",
     "children": [
       {
-        "id": "aab8b025b556403c",
+        "id": "216d2ac96a4e48d9",
         "type": "tabs",
         "children": [
           {
-            "id": "8c8b42336e3bec2d",
+            "id": "42c7231470b27a9b",
             "type": "leaf",
             "state": {
-              "type": "notification-dashboard-view",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "6 - Full Notes/Private/Professional/Interviews/Strategy/Elevator Pitch.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "19f43d114a6965c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Full Notes/Private/Professional/Interviews/Questions/Questions for Them.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "104b98fafafc913d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Full Notes/Private/Professional/Interviews/Strategy/Technical Interview Strategy.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "6 - Full Notes/Private/Professional/Interviews/Strategy/Elevator Pitch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "6 - Full Notes/Private/Professional/Interviews/Strategy/Elevator Pitch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +148,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "6 - Full Notes/Private/Professional/Interviews/Strategy/Elevator Pitch.md"
+              }
             }
           },
           {
@@ -180,44 +212,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8c8b42336e3bec2d",
+  "active": "42c7231470b27a9b",
   "lastOpenFiles": [
-    "1 - Rough Notes/Simple AD.md",
-    "1 - Rough Notes/AD Connector.md",
-    "1 - Rough Notes/AWS Managed Microsoft AD.md",
-    "1 - Rough Notes/AWS Directory Services.md",
-    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Identity and Federation/Concepts/Web Identity Federation - Without Cognito.md",
-    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Identity and Federation/Cognito/Concepts/Web Identity Federation - With Cognito.md",
-    "1 - Rough Notes/Cognito Token.md",
-    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Identity and Federation/Cognito/Concepts/Cognito Token.md",
-    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Identity and Federation/Cognito/Concepts",
-    "1 - Rough Notes/Web Identity Federation - With Cognito.md",
-    "1 - Rough Notes/Web Identity Federation - Without Cognito.md",
-    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Identity and Federation/Concepts/SAML 2.0 Federation - ADFS.md",
-    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Identity and Federation/Concepts/SAML 2.0 Federation - AWS API Access.md",
-    "1 - Rough Notes/SAML 2.0 Federation - ADFS.md",
-    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Identity and Federation/Concepts/LDAP.md",
-    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Identity and Federation/Concepts/LDAP vs. SAML.md",
-    "1 - Rough Notes/LDAP vs. SAML.md",
-    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Identity and Federation/Concepts/SAML Assertion.md",
-    "6 - Full Notes/Programming/Concepts/Access Control.md",
-    "1 - Rough Notes/Access Control.md",
-    "1 - Rough Notes/SAML Assertion.md",
-    "1 - Rough Notes/LDAP.md",
-    "1 - Rough Notes/SAML 2.0 Federation - AWS API Access.md",
-    "6 - Full Notes/Programming/Languages/SQL/Practice/SQL Practice.md",
-    "6 - Full Notes/Companies/Microsoft/Concepts/Active Directory.md",
-    "6 - Full Notes/Companies/Microsoft/Concepts",
-    "6 - Full Notes/Companies/Microsoft/Microsoft.md",
-    "6 - Full Notes/Companies/Microsoft",
-    "6 - Full Notes/Companies",
-    "1 - Rough Notes/Microsoft.md",
-    "6 - Full Notes/Programming/Languages/Python",
-    "home/travis/Documents/Obsidian/Travis/obsidian/storage/stateFile_OLD.csv",
-    "home/travis/Documents/Obsidian/Travis/obsidian/storage",
-    "home/travis/Documents/Obsidian/Travis/obsidian",
-    "home/travis/Documents/Obsidian/Travis",
-    "home/travis/Documents/Obsidian",
+    "6 - Full Notes/Programming/Frameworks/ReactJS/Concepts/Hooks.md",
+    "1 - Rough Notes/Hooks.md",
+    "6 - Full Notes/Programming/Frameworks/ReactJS/Concepts/useLayoutEffect.md",
+    "6 - Full Notes/Programming/Frameworks/ReactJS/Concepts/useEffectLayout.md",
+    "1 - Rough Notes/useEffectLayout.md",
+    "6 - Full Notes/Programming/Frameworks/ReactJS/Problems/BFE/10. useLayoutEffect().md",
+    "6 - Full Notes/Programming/Frameworks/ReactJS/Problems/BFE/2. React re-render 2 - memo().md",
+    "6 - Full Notes/Programming/Frameworks/ReactJS/Problems/BFE/4. React re-render 4.md~",
+    "6 - Full Notes/Programming/Frameworks/ReactJS/Problems/BFE/4. React re-render 4.md",
+    "6 - Full Notes/Programming/Frameworks/ReactJS/Problems/BFE/BFE.md",
+    "6 - Full Notes/Programming/Frameworks/ReactJS/Problems/BFE/1. React re-render 1.md",
+    "6 - Full Notes/Programming/Frameworks/ReactJS/Problems/BFE",
+    "6 - Full Notes/Programming/Frameworks/ReactJS/Problems/index.md",
+    "6 - Full Notes/Programming/Frameworks/ReactJS/Problems",
+    "6 - Full Notes/Programming/Frameworks/ReactJS/Study/Problems",
+    "6 - Full Notes/Programming/Frameworks/ReactJS/Study",
+    "6 - Full Notes/Programming/Frameworks/ReactJS/Notes",
+    "6 - Full Notes/Programming/Frameworks/ReactJS/Concepts",
+    "6 - Full Notes/Programming/Frameworks/Tailwind CSS/Tailwind CSS.md",
+    "6 - Full Notes/Programming/Frameworks/Tailwind CSS",
+    "6 - Full Notes/Programming/Frameworks/Expo/Expo.md",
+    "6 - Full Notes/Programming/Frameworks/Expo",
+    "6 - Full Notes/Programming/Frameworks/Cypress/Cypress.md",
+    "6 - Full Notes/Programming/Frameworks/Cypress",
+    "6 - Full Notes/Programming/Frameworks/ExpressJS/Express.md",
+    "6 - Full Notes/Programming/Frameworks/NextJS/NextJS.md",
+    "6 - Full Notes/Programming/Frameworks/ReactJS/ReactJS.md",
+    "6 - Full Notes/Programming/Frameworks/ReactJS/React.md",
+    "3 - Tags/Framework.md",
+    "1 - Rough Notes/Framework.md",
+    "6 - Full Notes/Programming/Frameworks/React/React.md",
+    "6 - Full Notes/Programming/Concepts/XSS.md",
+    "1 - Rough Notes/Iframe Security.md",
+    "6 - Full Notes/Private/Professional/Interviews/Questions/Questions for Them.md",
+    "6 - Full Notes/Private/Professional/Interviews/Strategy/Elevator Pitch.md",
+    "1 - Rough Notes/IFrame Security.md",
     "Pasted image 20240710200643.png",
     "Pasted image 20240710200410.png",
     "Pasted image 20240710200331.png",
