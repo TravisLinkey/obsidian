@@ -4,12 +4,22 @@
 Tags: [[4 - Indexes/TODO|TODO]]
 
 - [ ] Verify Google Play account
-- [ ] Fix tabs highlighted text color
-    - [ ] Fix darkmode enabled tab colors
 
-- [ ] Current workout checkboxes position
-- [ ] Workout Summary - completed exercises formatting looks bad
-- [ ] History - completed exercises formatting looks bad
+- [x] Fix tabs highlighted text color
+    - [x] Fix darkmode enabled tab colors
+
+- [x] Current workout
+    - [x] checkboxes position
+
+- [ ] Workout Summary
+    - [x] Exercise formatting is bad
+    - [ ] Total time
+
+- [x] History 
+    - [x] Exercise formatting is bad
+
+- [x] Create Workout
+    - [x] Add Exercise - show reps x sets
 
 ### References
 - [[LiftsKit]]

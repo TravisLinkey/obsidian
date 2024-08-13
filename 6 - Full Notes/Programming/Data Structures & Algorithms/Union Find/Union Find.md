@@ -1,10 +1,9 @@
 
-Tags: [[Data Structures & Algorithms]] | [[Minimum Spanning Tree]]
+Tags: [[Data Structures & Algorithms]] | [[Minimum Spanning Tree]] | [[Connected Components]]
 
 
 ### Overview
 This can be used to store a collection of disjoint (non-overlapping) sets.
-
 
 ### Implementation
 

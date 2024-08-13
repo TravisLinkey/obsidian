@@ -4,40 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "216d2ac96a4e48d9",
+        "id": "b62e2701efadaea2",
         "type": "tabs",
         "children": [
           {
-            "id": "42c7231470b27a9b",
+            "id": "61b98936bf1fc539",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6 - Full Notes/Private/Professional/Interviews/Strategy/Elevator Pitch.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "notification-dashboard-view",
+              "state": {}
             }
           },
           {
-            "id": "19f43d114a6965c4",
+            "id": "63283b2ae3e894a5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Full Notes/Private/Professional/Interviews/Questions/Questions for Them.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "104b98fafafc913d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6 - Full Notes/Private/Professional/Interviews/Strategy/Technical Interview Strategy.md",
+                "file": "6 - Full Notes/Software/Obsidian/Deploy Plugin.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6 - Full Notes/Private/Professional/Interviews/Strategy/Elevator Pitch.md",
+                "file": "6 - Full Notes/Software/Obsidian/Deploy Plugin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6 - Full Notes/Private/Professional/Interviews/Strategy/Elevator Pitch.md",
+                "file": "6 - Full Notes/Software/Obsidian/Deploy Plugin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6 - Full Notes/Private/Professional/Interviews/Strategy/Elevator Pitch.md"
+                "file": "6 - Full Notes/Software/Obsidian/Deploy Plugin.md"
               }
             }
           },
@@ -212,44 +196,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "42c7231470b27a9b",
+  "active": "61b98936bf1fc539",
   "lastOpenFiles": [
+    "1 - Rough Notes/703. Kth Largest Element in a Stream.md",
+    "1 - Rough Notes/SortedList.md",
+    "1 - Rough Notes/Epistemic Access.md",
+    "1 - Rough Notes/Ontological Reality.md",
+    "1 - Rough Notes/Epistemic Reality.md",
+    "6 - Full Notes/Philosophy/Philosophers/Friedrich Nietzsche",
+    "6 - Full Notes/Philosophy/Philosophers",
+    "1 - Rough Notes/Phenomenalism.md",
+    "6 - Full Notes/Philosophy/Categories/Relativism/Phenomenalism.md",
+    "6 - Full Notes/Philosophy/Categories/Relativism/Irrationalism.md",
+    "1 - Rough Notes/Irrationalism.md",
+    "6 - Full Notes/Philosophy/Categories/Relativism/Perceptual Subjectivism.md",
+    "6 - Full Notes/Philosophy/Categories/Relativism",
+    "6 - Full Notes/Philosophy/Categories/Objectivism",
+    "6 - Full Notes/Philosophy/Categories",
+    "6 - Full Notes/Philosophy/Relativism",
+    "1 - Rough Notes/Perceptual Subjectivism.md",
+    "1 - Rough Notes/Relativism.md",
+    "1 - Rough Notes/Postmodernism.md",
+    "6 - Full Notes/Private/Professional/Work History/BragSheet/Digital Payment/Iframe Security.md",
+    "6 - Full Notes/Programming/Concepts/Content Security Policy.md",
+    "1 - Rough Notes/Content Security Policy.md",
+    "6 - Full Notes/Philosophy/Personal/Poker is Fair.md",
+    "6 - Full Notes/Philosophy/Personal/Eliminate Negativity vs. Offset Negativity.md",
+    "6 - Full Notes/Philosophy/Eliminate Negativity vs. Offset Negativity.md",
+    "3 - Tags/Personal Advice.md",
+    "1 - Rough Notes/Personal Advice.md",
+    "6 - Full Notes/Programming/Problems/LeetCode/1568. Minimum Number of Days to Disconnect Island.md",
+    "1 - Rough Notes/1568. Minimum Number of Days to Disconnect Island.md",
+    "6 - Full Notes/Programming/Data Structures & Algorithms/Connected Components/Connected Components.md",
+    "6 - Full Notes/Programming/Data Structures & Algorithms/Connected Components",
+    "6 - Full Notes/Philosophy/Personal",
+    "6 - Full Notes/Philosophy/Objectivism",
+    "6 - Full Notes/Programming/Problems/LeetCode/885. Spiral Matrix III.md",
+    "6 - Full Notes/Programming/Problems/LeetCode/959. Regions Cut By Slashes.md",
     "6 - Full Notes/Programming/Languages/JavaScript/4913",
-    "6 - Full Notes/Programming/Languages/JavaScript/Add Days to Date.md",
-    "6 - Full Notes/Programming/Languages/JavaScript/Sort Dictionary by Key.md",
-    "1 - Rough Notes/Sort Dictionary by Key.md",
-    "6 - Full Notes/Untitled.md",
-    "6 - Full Notes/Private/Professional/Interviews/Strategy/Elevator Pitch.md",
-    "6 - Full Notes/Programming/Frameworks/ReactJS/Concepts/Hooks.md",
-    "1 - Rough Notes/Hooks.md",
-    "6 - Full Notes/Programming/Frameworks/ReactJS/Concepts/useLayoutEffect.md",
-    "6 - Full Notes/Programming/Frameworks/ReactJS/Concepts/useEffectLayout.md",
-    "1 - Rough Notes/useEffectLayout.md",
-    "6 - Full Notes/Programming/Frameworks/ReactJS/Problems/BFE/10. useLayoutEffect().md",
-    "6 - Full Notes/Programming/Frameworks/ReactJS/Problems/BFE/2. React re-render 2 - memo().md",
-    "6 - Full Notes/Programming/Frameworks/ReactJS/Problems/BFE/4. React re-render 4.md~",
-    "6 - Full Notes/Programming/Frameworks/ReactJS/Problems/BFE/4. React re-render 4.md",
-    "6 - Full Notes/Programming/Frameworks/ReactJS/Problems/BFE/BFE.md",
-    "6 - Full Notes/Programming/Frameworks/ReactJS/Problems/BFE/1. React re-render 1.md",
-    "6 - Full Notes/Programming/Frameworks/ReactJS/Problems/BFE",
-    "6 - Full Notes/Programming/Frameworks/ReactJS/Problems/index.md",
-    "6 - Full Notes/Programming/Frameworks/ReactJS/Problems",
-    "6 - Full Notes/Programming/Frameworks/ReactJS/Study/Problems",
-    "6 - Full Notes/Programming/Frameworks/ReactJS/Study",
-    "6 - Full Notes/Programming/Frameworks/ReactJS/Notes",
-    "6 - Full Notes/Programming/Frameworks/ReactJS/Concepts",
-    "6 - Full Notes/Programming/Frameworks/Tailwind CSS/Tailwind CSS.md",
-    "6 - Full Notes/Programming/Frameworks/Tailwind CSS",
-    "6 - Full Notes/Programming/Frameworks/Expo/Expo.md",
-    "6 - Full Notes/Programming/Frameworks/Expo",
-    "6 - Full Notes/Programming/Frameworks/Cypress/Cypress.md",
-    "6 - Full Notes/Programming/Frameworks/Cypress",
-    "6 - Full Notes/Programming/Frameworks/ExpressJS/Express.md",
-    "6 - Full Notes/Programming/Frameworks/NextJS/NextJS.md",
-    "6 - Full Notes/Programming/Frameworks/ReactJS/ReactJS.md",
-    "6 - Full Notes/Programming/Frameworks/ReactJS/React.md",
-    "3 - Tags/Framework.md",
-    "1 - Rough Notes/Framework.md",
     "Pasted image 20240710200643.png",
     "Pasted image 20240710200410.png",
     "Pasted image 20240710200331.png",
