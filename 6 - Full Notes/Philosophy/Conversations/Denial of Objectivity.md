@@ -28,8 +28,7 @@ See:
 3. Highlight the difference between [[Epistemic Access]] and [[Ontological Reality]]
 
 ### Further details
-He later did make the claim that an animal that does not have an ability to perceive water as wet, would prove that water is not objectively wet. This is classic [[Irrationalism]] 
-
+He later did make the claim that an animal that does not have an ability to perceive water as wet, would prove that water is not objectively wet. This is classic [[Irrationalism]].
 
 ### References
 - [[Reality Exists]]
