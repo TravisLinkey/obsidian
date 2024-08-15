@@ -4,6 +4,7 @@
 Tags: [[Philosophy]]
 
 ### Overview
+Relegates truth to the perspective of the individual.
 
 ### References
 - [[Denial of Objectivity]]

@@ -1,7 +1,7 @@
 
 2024-08-07 18:20
 
-Tags: [[Identity & Federation]] | [[AWS]]
+Tags:  [[AWS]] | [[Identity & Federation]]
 
 ### Types
 

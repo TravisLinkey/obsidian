@@ -14,18 +14,6 @@
               "type": "notification-dashboard-view",
               "state": {}
             }
-          },
-          {
-            "id": "63283b2ae3e894a5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6 - Full Notes/Software/Obsidian/Deploy Plugin.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ]
       }
@@ -93,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6 - Full Notes/Software/Obsidian/Deploy Plugin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6 - Full Notes/Software/Obsidian/Deploy Plugin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "6 - Full Notes/Software/Obsidian/Deploy Plugin.md"
-              }
+              "state": {}
             }
           },
           {
@@ -198,42 +182,42 @@
   },
   "active": "61b98936bf1fc539",
   "lastOpenFiles": [
-    "1 - Rough Notes/703. Kth Largest Element in a Stream.md",
-    "1 - Rough Notes/SortedList.md",
-    "1 - Rough Notes/Epistemic Access.md",
-    "1 - Rough Notes/Ontological Reality.md",
-    "1 - Rough Notes/Epistemic Reality.md",
+    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Identity and Federation/AWS Organizations/Backup Policies.md",
+    "1 - Rough Notes/EventBridge.md",
+    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Identity and Federation/AWS Organizations/Tag Policies.md",
+    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Identity and Federation/AWS Organizations/Service Control Policy.md",
+    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Identity and Federation/AWS Organizations/Service Control Policies.md",
+    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Identity and Federation/AWS Organizations/Moving Accounts.md",
+    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Identity and Federation/AWS Organizations/AWS Organizations.md~",
+    "1 - Rough Notes/Reserved Instances.md",
+    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Identity and Federation/AWS Organizations/All Features.md",
+    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Identity and Federation/AWS Organizations/Consolidated Billing.md",
+    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Identity and Federation/AWS Organizations/OrganizationAccountAccessRole.md",
+    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Identity and Federation/AWS Organizations/AWS Organizations.md",
+    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Identity and Federation/AWS Organizations",
+    "1 - Rough Notes/SQL Server.md",
+    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Identity and Federation/AWS Directory Services/Simple AD/Simple AD.md",
+    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Identity and Federation/AWS Directory Services/Simple AD",
+    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Identity and Federation/AWS Directory Services/AD Connector/User Sign In.md",
+    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Identity and Federation/AWS Directory Services/AD Connector/AD Connector.md",
+    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Identity and Federation/AWS Directory Services/AD Connector",
+    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Identity and Federation/AWS Directory Services/AWS Managed Microsoft AD/Active Directory Replication.md",
+    "1 - Rough Notes/VPN.md",
+    "1 - Rough Notes/Direct Connect.md",
+    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Other Services/Direct Connect/Direct Connect.md",
+    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Other Services/Direct Connect",
+    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Identity and Federation/AWS Directory Services/AWS Managed Microsoft AD/Connect to On-Prem AD.md~",
+    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Identity and Federation/AWS Directory Services/AWS Managed Microsoft AD/AWS Managed Microsoft AD.md",
+    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Identity and Federation/AWS Directory Services/AWS Managed Microsoft AD/Connect to On-Prem AD.md",
+    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Identity and Federation/AWS Directory Services/AWS Managed Microsoft AD/Managed Microsoft AD.md",
+    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Identity and Federation/AWS Directory Services/AWS Managed Microsoft AD",
+    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Identity and Federation/AWS Directory Services/Managed Microsoft AD/Managed Microsoft AD.md",
+    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Identity and Federation/AWS Directory Services/Managed Microsoft AD/AWS Managed Microsoft AD.md",
+    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Identity and Federation/AWS Directory Services/Managed Microsoft AD",
+    "1 - Rough Notes/Connect to On-Prem AD.md",
+    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/VPC/VPC.md",
+    "1 - Rough Notes/DevOps.md~",
     "6 - Full Notes/Philosophy/Philosophers/Friedrich Nietzsche",
-    "6 - Full Notes/Philosophy/Philosophers",
-    "1 - Rough Notes/Phenomenalism.md",
-    "6 - Full Notes/Philosophy/Categories/Relativism/Phenomenalism.md",
-    "6 - Full Notes/Philosophy/Categories/Relativism/Irrationalism.md",
-    "1 - Rough Notes/Irrationalism.md",
-    "6 - Full Notes/Philosophy/Categories/Relativism/Perceptual Subjectivism.md",
-    "6 - Full Notes/Philosophy/Categories/Relativism",
-    "6 - Full Notes/Philosophy/Categories/Objectivism",
-    "6 - Full Notes/Philosophy/Categories",
-    "6 - Full Notes/Philosophy/Relativism",
-    "1 - Rough Notes/Perceptual Subjectivism.md",
-    "1 - Rough Notes/Relativism.md",
-    "1 - Rough Notes/Postmodernism.md",
-    "6 - Full Notes/Private/Professional/Work History/BragSheet/Digital Payment/Iframe Security.md",
-    "6 - Full Notes/Programming/Concepts/Content Security Policy.md",
-    "1 - Rough Notes/Content Security Policy.md",
-    "6 - Full Notes/Philosophy/Personal/Poker is Fair.md",
-    "6 - Full Notes/Philosophy/Personal/Eliminate Negativity vs. Offset Negativity.md",
-    "6 - Full Notes/Philosophy/Eliminate Negativity vs. Offset Negativity.md",
-    "3 - Tags/Personal Advice.md",
-    "1 - Rough Notes/Personal Advice.md",
-    "6 - Full Notes/Programming/Problems/LeetCode/1568. Minimum Number of Days to Disconnect Island.md",
-    "1 - Rough Notes/1568. Minimum Number of Days to Disconnect Island.md",
-    "6 - Full Notes/Programming/Data Structures & Algorithms/Connected Components/Connected Components.md",
-    "6 - Full Notes/Programming/Data Structures & Algorithms/Connected Components",
-    "6 - Full Notes/Philosophy/Personal",
-    "6 - Full Notes/Philosophy/Objectivism",
-    "6 - Full Notes/Programming/Problems/LeetCode/885. Spiral Matrix III.md",
-    "6 - Full Notes/Programming/Problems/LeetCode/959. Regions Cut By Slashes.md",
-    "6 - Full Notes/Programming/Languages/JavaScript/4913",
     "Pasted image 20240710200643.png",
     "Pasted image 20240710200410.png",
     "Pasted image 20240710200331.png",

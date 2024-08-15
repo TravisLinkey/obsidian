@@ -13,6 +13,19 @@ Users are only defined on-prem. (Not in AWS)
 
 **Supports MFA**
 
+### Limitations 
+- No caching capability
+- No possibility of establishing a trust relationship
+- Does not work with [[SQL Server]]
+- Does not have seamless joining
+- Cannot share directory
+
+### Requirement
+**Must have [[VPN]] or [[Direct Connect]] setup.**
+
+### Deep Dive
+- [[User Sign In]]
+
 ### References
 - [[AWS Directory Services]]
 
