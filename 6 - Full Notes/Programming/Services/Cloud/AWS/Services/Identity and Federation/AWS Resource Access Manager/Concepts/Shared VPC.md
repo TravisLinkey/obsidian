@@ -17,6 +17,7 @@ Accounts can share VPC, including [[Private Subnet]].
 ### Use Cases
 - Applications with the same trust boundaries.
 - Applications with a high degree of interconnectivity.
+- [[Managed Prefix List]]
 
 ### References
 - [[AWS Resource Access Manager]]

@@ -12,4 +12,5 @@ Serves as a subtle, indirect form of expressing ressentiment while maintaining t
 
 ### References
 - [[Ressentiment]]
+- [[Christianity and Ressentiment]]
 

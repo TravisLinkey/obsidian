@@ -8,14 +8,27 @@
         "type": "tabs",
         "children": [
           {
-            "id": "45747de35b7b3a04",
+            "id": "320df3f84e51b084",
             "type": "leaf",
             "state": {
               "type": "notification-dashboard-view",
               "state": {}
             }
+          },
+          {
+            "id": "96e647d2a35f431b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Full Notes/Study Plan/Week 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "6 - Full Notes/Study Plan/Week 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "6 - Full Notes/Study Plan/Week 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "6 - Full Notes/Study Plan/Week 1.md"
+              }
             }
           },
           {
@@ -184,44 +201,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "45747de35b7b3a04",
+  "active": "96e647d2a35f431b",
   "lastOpenFiles": [
-    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Identity and Federation/AWS Resource Access Manager/Concepts/Shared VPC.md",
+    "1 - Rough Notes/Master Morality.md",
+    "6 - Full Notes/Philosophy/Philosophers/Friedrich Nietzsche/Concepts/The Last Man.md",
+    "6 - Full Notes/Philosophy/Philosophers/Friedrich Nietzsche/Notes/Virtue Signaling and Ressentiment.md",
+    "6 - Full Notes/Philosophy/Philosophers/Friedrich Nietzsche/Notes/Christianity and Ressentiment.md",
+    "6 - Full Notes/Philosophy/Philosophers/Friedrich Nietzsche/Notes",
+    "6 - Full Notes/Philosophy/Philosophers/Friedrich Nietzsche/Concepts/Ressentiment.md",
+    "6 - Full Notes/Philosophy/Philosophers/Friedrich Nietzsche/Concepts/Slave Morality.md",
+    "6 - Full Notes/Philosophy/Philosophers/Friedrich Nietzsche/Concepts",
+    "6 - Full Notes/Philosophy/Philosophers/Friedrich Nietzsche/Slave Morality.md",
+    "1 - Rough Notes/Slave Morality.md~",
+    "1 - Rough Notes/Slave Morality.md",
+    "6 - Full Notes/Philosophy/Conversations/Reality Exists.md",
+    "6 - Full Notes/Philosophy/Concepts/Logical Necessity.md",
+    "6 - Full Notes/Philosophy/Concepts/Idealism.md",
+    "1 - Rough Notes/Idealism.md",
+    "1 - Rough Notes/Logical Necessity.md",
+    "6 - Full Notes/Companies/Microsoft/Concepts/SQL Server.md",
+    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/VPC/Concepts/Security Group.md",
+    "6 - Full Notes/Programming/Concepts/Subnet.md",
+    "6 - Full Notes/Programming/Concepts/VPN.md",
+    "1 - Rough Notes/SQL Server.md~",
+    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/VPC/Concepts/Route Table.md",
+    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/VPC/Concepts",
+    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/VPC/Route Table.md",
+    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Compute/EC2/Concepts/Reserved Instances.md",
+    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Compute/EC2/Concepts",
+    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Compute/Fargate/Fargate.md",
+    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Compute/Fargate",
+    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Compute/EC2/EC2.md",
+    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Compute/EC2",
+    "6 - Full Notes/Programming/Concepts/IP Addresses.md",
+    "6 - Full Notes/Programming/Services/Cloud/AWS/EventBridge.md",
+    "6 - Full Notes/Programming/Services/Cloud/AWS/Direct Connect.md",
+    "6 - Full Notes/Programming/Concepts/CIDR.md",
+    "6 - Full Notes/Study Plan",
     "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Identity and Federation/AWS Resource Access Manager/Concepts",
-    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Identity and Federation/AWS Resource Access Manager/AWS Resource Access Manager.md",
-    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Identity and Federation/AWS Resource Access Manager/Resource Access Manager.md",
-    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Identity and Federation/AWS Resource Access Manager",
-    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Identity and Federation/Resource Access Manager/Resource Access Manager.md",
-    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Identity and Federation/Resource Access Manager",
-    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Identity and Federation/AWS Control Tower/Concepts/Gaurdrail.md",
-    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Other Services/AWS Service Catalog.md",
-    "1 - Rough Notes/AWS Service Catalog.md",
-    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Identity and Federation/AWS Control Tower/Concepts/Account Factory.md",
-    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Identity and Federation/AWS Control Tower/Concepts",
-    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Identity and Federation/AWS Control Tower/AWS Control Tower.md",
-    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Identity and Federation/AWS Control Tower",
-    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Identity and Federation/IAM Identity Center/Concepts/Attribute Based Access Control.md",
-    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Identity and Federation/IAM Identity Center/Concepts/Permission Sets.md",
-    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Identity and Federation/IAM Identity Center/Concepts",
-    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Identity and Federation/AWS Organizations/Concepts/OU.md",
-    "1 - Rough Notes/OU.md",
-    "6 - Full Notes/Programming/Software/Obsidian/Deploy Plugin.md",
-    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Identity and Federation/AWS Organizations/Backup Policies.md",
-    "1 - Rough Notes/EventBridge.md",
-    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Identity and Federation/AWS Organizations/Tag Policies.md",
-    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Identity and Federation/AWS Organizations/Service Control Policy.md",
-    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Identity and Federation/AWS Organizations/Service Control Policies.md",
-    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Identity and Federation/AWS Organizations/Moving Accounts.md",
-    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Identity and Federation/AWS Organizations/AWS Organizations.md~",
-    "1 - Rough Notes/Reserved Instances.md",
-    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Identity and Federation/AWS Organizations/All Features.md",
-    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Identity and Federation/AWS Organizations/Consolidated Billing.md",
-    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Identity and Federation/AWS Organizations/OrganizationAccountAccessRole.md",
-    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Identity and Federation/AWS Organizations/AWS Organizations.md",
-    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Identity and Federation/AWS Organizations",
-    "1 - Rough Notes/SQL Server.md",
-    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Identity and Federation/AWS Directory Services/Simple AD",
-    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Identity and Federation/AWS Directory Services/AD Connector",
     "Pasted image 20240710200643.png",
     "Pasted image 20240710200410.png",
     "Pasted image 20240710200331.png",

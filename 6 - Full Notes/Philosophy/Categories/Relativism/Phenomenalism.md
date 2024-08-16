@@ -15,4 +15,5 @@ Objects only exist as they are perceived, the nature of those objects could be s
 
 ### References
 - [[Perceptual Subjectivism]]
+- [[Reality Exists]]
 

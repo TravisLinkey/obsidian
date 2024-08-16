@@ -20,6 +20,12 @@ Humility, charity and meekness are the products of [[Ressentiment]] and allow Ch
 ### Life Denial and Nihilism
 They prefer self-denial instead of strength and self-assertion. According to Nietzsche, this is a form of life-denial or [[Nihilism]], where the highest human potentials are suppressed in favor of mediocrity and passivity.
 
+### Biblical Principals
+Humility, charity, and pity are the result of universalizing the plight of the slave, [[Slave Morality]], onto all of humankiund, and thus enslaving the masters as well.
+
+### Political Implications
+`The democratic movement is the heir to Christianity`
+- The political manifestation of [[Slave Morality]] because its obsession with freedom and equality.
 
 ### References
 - [[Master vs. Slave Morality]]

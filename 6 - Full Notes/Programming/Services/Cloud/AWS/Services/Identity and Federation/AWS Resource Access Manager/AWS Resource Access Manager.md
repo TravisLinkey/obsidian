@@ -9,7 +9,7 @@ Share AWS resources with other AWS accounts
 ### Key Concepts
 - Commonly shared resource: [[VPC]]
     - [[Shared VPC]]
-
+    - [[Managed Prefix List]]
 
 ### References
 - [[Week 1]]
