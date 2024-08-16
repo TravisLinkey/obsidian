@@ -1,4 +1,8 @@
 
+2024-08-16 11:33
+
+Tags: [[AWS]] | [[Prep]]
+
 ### Subjects
 
 - [[IAM]]
@@ -10,3 +14,6 @@
     
  - [[Active Directory]]
  - [[AWS Directory Services]]
+ - [[IAM Identity Center]]
+ - [[AWS Control Tower]]
+ - [[AWS Resource Access Manager]]

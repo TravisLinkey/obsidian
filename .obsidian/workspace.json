@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b62e2701efadaea2",
+        "id": "e7c2eed8d92e0def",
         "type": "tabs",
         "children": [
           {
-            "id": "61b98936bf1fc539",
+            "id": "45747de35b7b3a04",
             "type": "leaf",
             "state": {
               "type": "notification-dashboard-view",
@@ -125,8 +125,12 @@
             "id": "5f01ef56f15bd4ac",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "6 - Full Notes/Programming/Software/Obsidian/Deploy Plugin.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -180,8 +184,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "61b98936bf1fc539",
+  "active": "45747de35b7b3a04",
   "lastOpenFiles": [
+    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Identity and Federation/AWS Resource Access Manager/Concepts/Shared VPC.md",
+    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Identity and Federation/AWS Resource Access Manager/Concepts",
+    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Identity and Federation/AWS Resource Access Manager/AWS Resource Access Manager.md",
+    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Identity and Federation/AWS Resource Access Manager/Resource Access Manager.md",
+    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Identity and Federation/AWS Resource Access Manager",
+    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Identity and Federation/Resource Access Manager/Resource Access Manager.md",
+    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Identity and Federation/Resource Access Manager",
+    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Identity and Federation/AWS Control Tower/Concepts/Gaurdrail.md",
+    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Other Services/AWS Service Catalog.md",
+    "1 - Rough Notes/AWS Service Catalog.md",
+    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Identity and Federation/AWS Control Tower/Concepts/Account Factory.md",
+    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Identity and Federation/AWS Control Tower/Concepts",
+    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Identity and Federation/AWS Control Tower/AWS Control Tower.md",
+    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Identity and Federation/AWS Control Tower",
+    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Identity and Federation/IAM Identity Center/Concepts/Attribute Based Access Control.md",
+    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Identity and Federation/IAM Identity Center/Concepts/Permission Sets.md",
+    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Identity and Federation/IAM Identity Center/Concepts",
+    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Identity and Federation/AWS Organizations/Concepts/OU.md",
+    "1 - Rough Notes/OU.md",
+    "6 - Full Notes/Programming/Software/Obsidian/Deploy Plugin.md",
     "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Identity and Federation/AWS Organizations/Backup Policies.md",
     "1 - Rough Notes/EventBridge.md",
     "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Identity and Federation/AWS Organizations/Tag Policies.md",
@@ -196,28 +220,8 @@
     "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Identity and Federation/AWS Organizations/AWS Organizations.md",
     "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Identity and Federation/AWS Organizations",
     "1 - Rough Notes/SQL Server.md",
-    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Identity and Federation/AWS Directory Services/Simple AD/Simple AD.md",
     "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Identity and Federation/AWS Directory Services/Simple AD",
-    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Identity and Federation/AWS Directory Services/AD Connector/User Sign In.md",
-    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Identity and Federation/AWS Directory Services/AD Connector/AD Connector.md",
     "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Identity and Federation/AWS Directory Services/AD Connector",
-    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Identity and Federation/AWS Directory Services/AWS Managed Microsoft AD/Active Directory Replication.md",
-    "1 - Rough Notes/VPN.md",
-    "1 - Rough Notes/Direct Connect.md",
-    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Other Services/Direct Connect/Direct Connect.md",
-    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Other Services/Direct Connect",
-    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Identity and Federation/AWS Directory Services/AWS Managed Microsoft AD/Connect to On-Prem AD.md~",
-    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Identity and Federation/AWS Directory Services/AWS Managed Microsoft AD/AWS Managed Microsoft AD.md",
-    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Identity and Federation/AWS Directory Services/AWS Managed Microsoft AD/Connect to On-Prem AD.md",
-    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Identity and Federation/AWS Directory Services/AWS Managed Microsoft AD/Managed Microsoft AD.md",
-    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Identity and Federation/AWS Directory Services/AWS Managed Microsoft AD",
-    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Identity and Federation/AWS Directory Services/Managed Microsoft AD/Managed Microsoft AD.md",
-    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Identity and Federation/AWS Directory Services/Managed Microsoft AD/AWS Managed Microsoft AD.md",
-    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Identity and Federation/AWS Directory Services/Managed Microsoft AD",
-    "1 - Rough Notes/Connect to On-Prem AD.md",
-    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/VPC/VPC.md",
-    "1 - Rough Notes/DevOps.md~",
-    "6 - Full Notes/Philosophy/Philosophers/Friedrich Nietzsche",
     "Pasted image 20240710200643.png",
     "Pasted image 20240710200410.png",
     "Pasted image 20240710200331.png",

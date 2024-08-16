@@ -24,4 +24,5 @@ A [[Cognito Token]] is used to retreive temporary security credentials from [[ST
 
 ### References
 - [[Week 1]]
+- [[Cognito]]
 
