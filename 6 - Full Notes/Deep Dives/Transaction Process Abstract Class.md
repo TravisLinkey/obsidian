@@ -1,7 +1,7 @@
 
 2024-06-09 13:15
 
-Tag: [[Design Patterns]] | [[Strategy Pattern]] | [[6 - Full Notes/Professional/Job_Search/2024/Companies/ServiceCore/Interview]]
+Tag: [[Interview]] | [[Prep]] | [[Design Patterns]] | [[Strategy Pattern]]
 
 ## Overview
 
