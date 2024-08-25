@@ -1,0 +1,1 @@
+A communication protocol that allows two way communication between a client and a server.

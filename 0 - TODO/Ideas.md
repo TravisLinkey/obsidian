@@ -1,4 +1,5 @@
-Tags: [[4 - Indexes/TODO|TODO]]
+Tags: [[TODO]]
+
 ### Ideas for future projects
 
 - [ ] An Obsidian plugin that helps you review notes (randomly pick a note to review)

@@ -1,5 +1,5 @@
 
-Tags: [[GoLang]]
+Tags: [[Go]]
 
 
 ### Overview

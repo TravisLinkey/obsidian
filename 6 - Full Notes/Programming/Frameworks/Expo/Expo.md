@@ -1,8 +1,7 @@
 
 2024-05-30 06:27
 
-Status:
-Tag: [[React Native]] | [[Expo]]
+Tag: [[React Native]]
 
 ## Overview
 

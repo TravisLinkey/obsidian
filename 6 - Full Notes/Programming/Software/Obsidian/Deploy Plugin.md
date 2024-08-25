@@ -1,7 +1,7 @@
 
 2024-07-28 16:34
 
-Tags: [[Deployment]] | 
+Tags: [[Deployment]] 
 
 ### Overview
 The references linked will help you deploy an Obsidian plugin.

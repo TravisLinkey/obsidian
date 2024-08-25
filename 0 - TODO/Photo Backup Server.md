@@ -1,7 +1,7 @@
 
 2024-07-19 19:00
 
-Tags: [[4 - Indexes/TODO|TODO]]
+Tags: [[TODO]]
 
 - [x] Lambda code to create thumbnail
 - [x] Terraform for thumbnail server

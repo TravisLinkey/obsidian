@@ -1,7 +1,7 @@
 
 2024-07-21 16:33
 
-Tags: [[6 - Full Notes/Projects/Note Reviewer/Note Reviewer]]
+Tags: [[Personal Projects]]
 
 ### Requirements
 

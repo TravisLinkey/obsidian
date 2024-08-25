@@ -1,21 +1,25 @@
 
 2024-07-19 19:01
 
-Tags: [[4 - Indexes/TODO|TODO]]
+Tags: [[TODO]]
 
-- [ ] Verify Google Play account
-
-- [ ] Workout Summary
-    - [x] Total time
-    - [ ] Update best time
-
-### Bugs
-- [ ] History
+- [?] Verify Google Play account
 
 ### Features
+- [ ] Improvise Workouts
+    - [ ] UI
+
 - [ ] One Rep Max
 - [ ] Analytics
 - [ ] Wallet 
+- [ ] Google sign in !
+
+### Bugs
+- [ ] View History
+    - [ ] Exercise font color
+
+- [ ] Current Workout
+    - [ ] Exercise format rows
 
 ### References
 - [[LiftsKit]]

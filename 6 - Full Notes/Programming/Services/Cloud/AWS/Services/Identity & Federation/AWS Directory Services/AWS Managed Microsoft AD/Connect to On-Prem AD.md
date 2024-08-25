@@ -1,7 +1,7 @@
 
 2024-08-15 09:14
 
-Tags: [[AWS]] | [[Identity & Federation]] | [[Active Directory]] | [[AWS Managed Microsoft Managed AD]]
+Tags: [[AWS]] | [[Identity & Federation]] | [[Active Directory]]
 
 ### Overview
 You can connect your on-prem [[Active Directory]] to [[AWS Managed Microsoft AD]]
@@ -17,9 +17,8 @@ You can connect your on-prem [[Active Directory]] to [[AWS Managed Microsoft AD]
     -- AWS <=> On-Prem
 
 ### Details
-Forest trust is different than synchronization (replication is not supported)
+[[Forest Trust]] is different than synchronization (replication is not supported)
     - Users exist independently (AWS and On-Prem users are different)
 
 ### References
-- [[Managed Microsoft AD]]
-
+- [[AWS Managed Microsoft AD]]

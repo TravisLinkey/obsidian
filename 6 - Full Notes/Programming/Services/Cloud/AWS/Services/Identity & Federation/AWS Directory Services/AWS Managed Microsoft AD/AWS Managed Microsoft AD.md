@@ -1,7 +1,7 @@
 
 2024-08-07 19:47
 
-Tags: [[AWS]] | [[Identity & Federation]] | [[Active Directory]] | [[AWS Managed Microsoft Managed AD]]
+Tags: [[AWS]] | [[Identity & Federation]] | [[Active Directory]]
 
 ### Overview
 A managed [[Active Directory]] solution by AWS.
@@ -11,7 +11,7 @@ To establish a 'trust' connection between your On-Prem AD and AWS
 
 - Users are defined in two places, in AWS and On-Prem AD
 
-**Suppports MFA**
+**Supports MFA**
 
 ### Details
 - A Microsoft AD in your AWS [[VPC]]

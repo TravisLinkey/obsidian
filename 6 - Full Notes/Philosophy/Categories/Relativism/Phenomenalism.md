@@ -1,7 +1,7 @@
 
 2024-08-11 18:48
 
-Tags: [[Philosphy]] | [[Relativism]]
+Tags: [[Philosophy]] | [[Relativism]]
 
 ### Overview
 Claims reality can only be understood as being dependent on sensory phenomena.
