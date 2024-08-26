@@ -14,8 +14,21 @@
               "type": "notification-dashboard-view",
               "state": {}
             }
+          },
+          {
+            "id": "3d963748fe16be95",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Full Notes/Private/Professional/Interviews/Answers/Elevator Pitch.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -65,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 384.5
+    "width": 230.5110321044922
   },
   "right": {
     "id": "4b7f478917d12190",
@@ -81,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "6 - Full Notes/Private/Professional/Interviews/Answers/Elevator Pitch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "6 - Full Notes/Private/Professional/Interviews/Answers/Elevator Pitch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "6 - Full Notes/Private/Professional/Interviews/Answers/Elevator Pitch.md"
+              }
             }
           },
           {
@@ -184,8 +201,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "686a52ec3e996947",
+  "active": "3d963748fe16be95",
   "lastOpenFiles": [
+    "6 - Full Notes/Private/Professional/Interviews/Recordings/Screencastify.md",
+    "6 - Full Notes/Private/Professional/Interviews/Recordings",
+    "6 - Full Notes/Private/Professional/Interviews/Companies/ServiceCore/ServiceCore - Final Interview 2.md",
+    "6 - Full Notes/Private/Professional/Interviews/Answers/Elevator Pitch.md",
+    "6 - Full Notes/Programming/Design Principles/REST.md",
+    "6 - Full Notes/Private/Professional/Interviews/Answers/My Skills.md",
+    "6 - Full Notes/Programming/Software/Obsidian/Deploy Plugin.md",
+    "5 - Template/Interview Template.md",
+    "6 - Full Notes/Private/Professional/Interviews/Companies/Mint Mobile/Mint Mobile 2.md",
+    "6 - Full Notes/Private/Professional/Interviews/Companies/Mint Mobile/Mint Mobile 1.md",
+    "6 - Full Notes/Private/Professional/Interviews/Companies/Mint Mobile/Mint Mobile Interview 2.md",
+    "6 - Full Notes/Private/Professional/Interviews/Companies/Mint Mobile/Mint Mobile Interview 1.md",
+    "6 - Full Notes/Private/Professional/Interviews/Companies/Mint Mobile/Mint Mobile.md",
+    "6 - Full Notes/Private/Professional/Interviews/Companies/Mint Mobile",
+    "6 - Full Notes/Programming/Problems/LeetCode/145. Binary Tree Postorder Traversal.md",
     "6 - Full Notes/Programming/Data Structures & Algorithms/Trees/Concepts/Quadtree.md",
     "6 - Full Notes/Programming/Data Structures & Algorithms/Trees/Concepts",
     "6 - Full Notes/Programming/Data Structures & Algorithms/Trees/Traversals/Level Order Traversal.md",
@@ -204,25 +236,10 @@
     "1 - Rough Notes/145. Binary Tree Postorder Traversal.md",
     "1 - Rough Notes/Post Order Traversal.md",
     "6 - Full Notes/Programming/Frameworks/Expo/Fixing Bugs.md",
-    "6 - Full Notes/Programming/Software/Obsidian/Deploy Plugin.md",
     "2 - Source Material/Gifs/ByteByteGo_AWS_Categories.gif",
-    "6 - Full Notes/Programming/Services/Cloud/AWS/Concepts/Resources.md",
     "2 - Source Material/Gifs",
-    "6 - Full Notes/Programming/Services/Cloud/AWS/Links/ByteByteGo Categories.md",
     "6 - Full Notes/Programming/Services/Cloud/AWS/Links",
-    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Developer Tools/CloudFormation/CloudFormation.md",
     "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Developer Tools/CloudFormation",
-    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Developer Tools",
-    "6 - Full Notes/Programming/Services/Cloud/AWS/Concepts/Principal.md",
-    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Identity & Federation/AWS Directory Services/AWS Managed Microsoft AD/Concepts/Forest Trust.md",
-    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Identity & Federation/AWS Directory Services/AWS Managed Microsoft AD/Concepts/Untitled.md",
-    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Identity & Federation/AWS Directory Services/AWS Managed Microsoft AD/Connect to On-Prem AD.md",
-    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Identity & Federation/AWS Directory Services/AWS Managed Microsoft AD/Concepts",
-    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Identity & Federation/AWS Directory Services/AWS Managed Microsoft AD/Active Directory Replication.md",
-    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Identity & Federation/AWS Directory Services/AWS Managed Microsoft AD/AWS Managed Microsoft AD.md",
-    "6 - Full Notes/Programming/Concepts/Domain Join.md",
-    "6 - Full Notes/Programming/Systems Design/Concepts/Concurrency vs. Parallelism.md",
-    "1 - Rough Notes/Concurrency vs. Parallelism.md",
     "Pasted image 20240710200643.png",
     "Pasted image 20240710200410.png",
     "Pasted image 20240710200331.png",
