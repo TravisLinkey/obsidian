@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8527837003231952",
+        "id": "f2a86eca19c94b8d",
         "type": "tabs",
         "children": [
           {
-            "id": "99f0df813e2a4513",
+            "id": "686a52ec3e996947",
             "type": "leaf",
             "state": {
               "type": "notification-dashboard-view",
@@ -81,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6 - Full Notes/Programming/Software/Obsidian/Deploy Plugin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6 - Full Notes/Programming/Software/Obsidian/Deploy Plugin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "6 - Full Notes/Programming/Software/Obsidian/Deploy Plugin.md"
-              }
+              "state": {}
             }
           },
           {
@@ -188,8 +184,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "99f0df813e2a4513",
+  "active": "686a52ec3e996947",
   "lastOpenFiles": [
+    "6 - Full Notes/Programming/Data Structures & Algorithms/Trees/Concepts/Quadtree.md",
+    "6 - Full Notes/Programming/Data Structures & Algorithms/Trees/Concepts",
+    "6 - Full Notes/Programming/Data Structures & Algorithms/Trees/Traversals/Level Order Traversal.md",
+    "6 - Full Notes/Programming/Data Structures & Algorithms/Trees/Traversals/Post Order Traversal.md",
+    "6 - Full Notes/Programming/Data Structures & Algorithms/Trees/Traversals/In Order Traversal.md",
+    "6 - Full Notes/Programming/Data Structures & Algorithms/Trees/Traversals",
+    "6 - Full Notes/Programming/Data Structures & Algorithms/Trees/Heap/Heap.md",
+    "6 - Full Notes/Programming/Data Structures & Algorithms/Trees/Heap",
+    "6 - Full Notes/Programming/Data Structures & Algorithms/Trees/Binary Search Tree/Binary Search Tree.md",
+    "6 - Full Notes/Programming/Data Structures & Algorithms/Trees/Binary Search Tree",
+    "6 - Full Notes/Programming/Data Structures & Algorithms/Trees/Binary Search Tree.md",
+    "6 - Full Notes/Programming/Data Structures & Algorithms/Trees/DFS/DFS.md",
+    "6 - Full Notes/Programming/Data Structures & Algorithms/Trees/DFS",
+    "6 - Full Notes/Programming/Data Structures & Algorithms/Trees/Concepts/Binary Search Tree.md",
+    "6 - Full Notes/Programming/Data Structures & Algorithms/Trees/Post Order Traversal.md",
+    "1 - Rough Notes/145. Binary Tree Postorder Traversal.md",
+    "1 - Rough Notes/Post Order Traversal.md",
+    "6 - Full Notes/Programming/Frameworks/Expo/Fixing Bugs.md",
     "6 - Full Notes/Programming/Software/Obsidian/Deploy Plugin.md",
     "2 - Source Material/Gifs/ByteByteGo_AWS_Categories.gif",
     "6 - Full Notes/Programming/Services/Cloud/AWS/Concepts/Resources.md",
@@ -209,23 +223,6 @@
     "6 - Full Notes/Programming/Concepts/Domain Join.md",
     "6 - Full Notes/Programming/Systems Design/Concepts/Concurrency vs. Parallelism.md",
     "1 - Rough Notes/Concurrency vs. Parallelism.md",
-    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Compute/Lambda/Layers.md",
-    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Identity & Federation/AWS Directory Services/AD Connector/AD Connector.md",
-    "3 - Tags/ADR.md",
-    "0 - TODO/LiftsKit.md",
-    "6 - Full Notes/Programming/Frameworks/Expo/Expo.md",
-    "0 - TODO/Note Reviewer.md",
-    "6 - Full Notes/Private/Professional/Interviews/Companies/ServiceCore/ServiceCore - Final Interview 2.md",
-    "6 - Full Notes/Private/Professional/Work History/BragSheet/John Deere/Digital Checkout.md",
-    "6 - Full Notes/Private/Professional/Interviews/Companies/ServiceCore/Last Interview Experience.md",
-    "6 - Full Notes/Private/Professional/Interviews/Companies/ServiceCore/Why Do You Want To Work Here.md",
-    "6 - Full Notes/Private/Professional/Interviews/Companies/ServiceCore/Questions For Sean.md",
-    "6 - Full Notes/Programming/Problems/LeetCode/1140. Stone Game II.md",
-    "6 - Full Notes/Programming/Data Structures & Algorithms/Dynamic Programming",
-    "6 - Full Notes/Private/Professional/Work History/John Deere/Projects",
-    "6 - Full Notes/Private/Professional/Work History/John Deere/Concepts",
-    "6 - Full Notes/Private/Professional/Work History/John Deere",
-    "6 - Full Notes/Private/Work/John Deere/Concepts",
     "Pasted image 20240710200643.png",
     "Pasted image 20240710200410.png",
     "Pasted image 20240710200331.png",

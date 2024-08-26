@@ -1,5 +1,5 @@
 
-Tags: [[Data Structures & Algorithms]] | [[Tree Traversal]] | [[BFS]]
+Tags: [[Data Structures & Algorithms]] | [[Tree]] | [[BFS]]
 
 
 ### Overview

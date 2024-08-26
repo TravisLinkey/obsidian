@@ -15,11 +15,7 @@ Tags: [[TODO]]
 - [ ] Google sign in !
 
 ### Bugs
-- [ ] View History
-    - [ ] Exercise font color
 
-- [ ] Current Workout
-    - [ ] Exercise format rows
 
 ### References
 - [[LiftsKit]]
