@@ -38,9 +38,20 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0778a53718770da9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Full Notes/Programming/Data Structures & Algorithms/Analysis/Constraints Analysis.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6 - Full Notes/Private/Professional/Interviews/Companies/ServiceCore/Mike Interview.md",
+                "file": "6 - Full Notes/Programming/Data Structures & Algorithms/Analysis/Constraints Analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6 - Full Notes/Private/Professional/Interviews/Companies/ServiceCore/Mike Interview.md",
+                "file": "6 - Full Notes/Programming/Data Structures & Algorithms/Analysis/Constraints Analysis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6 - Full Notes/Private/Professional/Interviews/Companies/ServiceCore/Mike Interview.md"
+                "file": "6 - Full Notes/Programming/Data Structures & Algorithms/Analysis/Constraints Analysis.md"
               }
             }
           },
@@ -213,8 +224,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8e2fed24760abde7",
+  "active": "686a52ec3e996947",
   "lastOpenFiles": [
+    "6 - Full Notes/Programming/Data Structures & Algorithms/Graphs/Flood Fill.md",
+    "6 - Full Notes/Programming/Data Structures & Algorithms/Minimax/Minimax.md",
+    "6 - Full Notes/Programming/Data Structures & Algorithms/Minimax",
+    "6 - Full Notes/Programming/Data Structures & Algorithms/Greedy/Greedy.md",
+    "6 - Full Notes/Programming/Data Structures & Algorithms/Greedy",
+    "6 - Full Notes/Programming/Data Structures & Algorithms/Greedy.md",
+    "6 - Full Notes/Programming/Data Structures & Algorithms/Minimax.md",
+    "6 - Full Notes/Programming/Problems/LeetCode/1514. Path with Maximum Probability.md",
+    "6 - Full Notes/Programming/Problems/LeetCode/1717. Maximum Score From Removing Substrings.md",
+    "6 - Full Notes/Programming/Problems/LeetCode/1653. Minimum Deletions to Make String Balanced.md",
+    "6 - Full Notes/Programming/Data Structures & Algorithms/Analysis/Constraints Analysis.md",
+    "6 - Full Notes/Programming/Problems/LeetCode/1579. Remove Max Number of Edges to Keep Graph Fully Traversable.md",
+    "1 - Rough Notes/Greedy.md",
+    "6 - Full Notes/Private/Professional/Interviews/Companies/ServiceCore/Mike Interview.md",
+    "6 - Full Notes/Programming/Data Structures & Algorithms/Analysis/Constraints Analysis.md~",
+    "6 - Full Notes/Programming/Data Structures & Algorithms/Analysis",
+    "6 - Full Notes/Economics/Thomas Sowell/Affirmative Action.md",
+    "6 - Full Notes/Politics/Concepts/Civil Rights Act of 1964.md",
+    "6 - Full Notes/Politics/Concepts/14th Amendment.md",
+    "6 - Full Notes/Politics/Concepts/Title VII.md",
+    "1 - Rough Notes/Title VII.md",
+    "1 - Rough Notes/Affirmative Action.md~",
+    "6 - Full Notes/Personal/Opinions",
+    "6 - Full Notes/Politics/Concepts",
+    "6 - Full Notes/Politics",
+    "1 - Rough Notes/14th Amendment.md",
+    "1 - Rough Notes/Affirmative Action.md",
+    "6 - Full Notes/Economics/Thomas Sowell",
+    "6 - Full Notes/Economics",
     "1 - Rough Notes/Actor Model.md",
     "1 - Rough Notes/Pure Function.md",
     "4 - Indexes/Architectural Pattern.md",
@@ -222,35 +262,6 @@
     "1 - Rough Notes/Event Sourcing.md",
     "6 - Full Notes/Programming/Languages/Elixir/Concepts/Phoenix Sockets.md",
     "6 - Full Notes/Programming/Concepts/Channels.md",
-    "1 - Rough Notes/Channels.md",
-    "1 - Rough Notes/Phoenix Sockets.md",
-    "6 - Full Notes/Programming/Concepts/Hot Code Swapping.md",
-    "1 - Rough Notes/Hot Code Swapping.md",
-    "6 - Full Notes/Programming/Data Structures & Algorithms/Minimax.md",
-    "6 - Full Notes/Programming/Languages/Elixir/Concepts/Native Function.md",
-    "6 - Full Notes/Programming/Languages/Elixir/Concepts",
-    "6 - Full Notes/Programming/Languages/Elixir/Native Function.md",
-    "3 - Tags/Programming Language.md",
-    "1 - Rough Notes/Programming Language.md",
-    "6 - Full Notes/Programming/Languages/Erlang/Erlang.md",
-    "6 - Full Notes/Programming/Languages/Erlang/Concepts/Erlang Virtual Machine.md",
-    "6 - Full Notes/Programming/Languages/Erlang/Concepts",
-    "6 - Full Notes/Programming/Languages/Erlang/Erlang Virtual Machine.md",
-    "1 - Rough Notes/Native Function.md",
-    "1 - Rough Notes/Native Function",
-    "6 - Full Notes/Programming/Problems/LeetCode/1905. Count Sub Island.md",
-    "6 - Full Notes/Programming/Problems/LeetCode/1514. Path with Maximum Probability.md",
-    "1 - Rough Notes/1905. Count Sub Island.md",
-    "1 - Rough Notes/1514. Path with Maximum Probability.md",
-    "6 - Full Notes/Programming/Problems/LeetCode/1395. Counter Number of Teams.md",
-    "6 - Full Notes/Private/Professional/Interviews/Companies/ServiceCore/Mike Interview.md",
-    "6 - Full Notes/Programming/Languages/Erlang",
-    "6 - Full Notes/Programming/Languages/Elixir",
-    "6 - Full Notes/Programming/Languages/Rust/Concepts",
-    "6 - Full Notes/Programming/Languages/Rust/Borrow Checker",
-    "6 - Full Notes/Programming/Languages/Rust/Borrow Checker.md~",
-    "6 - Full Notes/Programming/Languages/Rust",
-    "6 - Full Notes/Private/Professional/Interviews/Recordings",
     "2 - Source Material/Gifs/ByteByteGo_AWS_Categories.gif",
     "Pasted image 20240710200643.png",
     "Pasted image 20240710200410.png",

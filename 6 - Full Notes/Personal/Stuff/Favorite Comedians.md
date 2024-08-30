@@ -1,4 +1,6 @@
 
+2024-08-30 15:32
+
 Tags: [[Personal]]
 
 - Bill Burr
@@ -8,5 +10,6 @@ Tags: [[Personal]]
 - Nick Mullen
 - Ralph Barbosa
 - Sam Morril
+- Shane Gillis
 - Stavros Helkias
 - Theo Von
