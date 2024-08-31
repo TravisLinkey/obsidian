@@ -40,18 +40,43 @@
             }
           },
           {
-            "id": "0778a53718770da9",
+            "id": "424e03a3f8e918cc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Full Notes/Programming/Data Structures & Algorithms/Analysis/Constraints Analysis.md",
+                "file": "6 - Full Notes/Programming/Languages/Elixir/Elixir.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b47dd706b8673576",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - Rough Notes/Actor Model.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d5444b2e0aeaae88",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Full Notes/Programming/Software/Neovim/Commands/Commands.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -117,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6 - Full Notes/Programming/Data Structures & Algorithms/Analysis/Constraints Analysis.md",
+                "file": "6 - Full Notes/Programming/Software/Neovim/Commands/Commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6 - Full Notes/Programming/Data Structures & Algorithms/Analysis/Constraints Analysis.md",
+                "file": "6 - Full Notes/Programming/Software/Neovim/Commands/Commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6 - Full Notes/Programming/Data Structures & Algorithms/Analysis/Constraints Analysis.md"
+                "file": "6 - Full Notes/Programming/Software/Neovim/Commands/Commands.md"
               }
             }
           },
@@ -224,44 +249,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "686a52ec3e996947",
+  "active": "d5444b2e0aeaae88",
   "lastOpenFiles": [
-    "6 - Full Notes/Philosophy/Concepts/Platonic Realm of Forms.md",
-    "6 - Full Notes/Religion/Study/Yahwey as Satan.md",
-    "6 - Full Notes/Religion/Study",
-    "6 - Full Notes/Religion/Gnosticism/Concepts/Demiurge.md",
-    "6 - Full Notes/Religion/Gnosticism/Concepts",
-    "6 - Full Notes/Religion/Gnosticism/Demiurge.md",
-    "6 - Full Notes/Religion/Gnosticism/Gnosticism.md",
-    "6 - Full Notes/Religion/Gnosticism",
-    "6 - Full Notes/Programming/Data Structures & Algorithms/Graphs/Flood Fill.md",
-    "6 - Full Notes/Programming/Data Structures & Algorithms/Minimax/Minimax.md",
-    "6 - Full Notes/Programming/Data Structures & Algorithms/Minimax",
-    "6 - Full Notes/Programming/Data Structures & Algorithms/Greedy/Greedy.md",
-    "6 - Full Notes/Programming/Data Structures & Algorithms/Greedy",
-    "6 - Full Notes/Programming/Data Structures & Algorithms/Greedy.md",
-    "6 - Full Notes/Programming/Data Structures & Algorithms/Minimax.md",
-    "6 - Full Notes/Programming/Problems/LeetCode/1514. Path with Maximum Probability.md",
-    "6 - Full Notes/Programming/Problems/LeetCode/1717. Maximum Score From Removing Substrings.md",
-    "6 - Full Notes/Programming/Problems/LeetCode/1653. Minimum Deletions to Make String Balanced.md",
-    "6 - Full Notes/Programming/Data Structures & Algorithms/Analysis/Constraints Analysis.md",
-    "6 - Full Notes/Programming/Problems/LeetCode/1579. Remove Max Number of Edges to Keep Graph Fully Traversable.md",
-    "1 - Rough Notes/Greedy.md",
-    "6 - Full Notes/Private/Professional/Interviews/Companies/ServiceCore/Mike Interview.md",
-    "6 - Full Notes/Programming/Data Structures & Algorithms/Analysis/Constraints Analysis.md~",
-    "6 - Full Notes/Programming/Data Structures & Algorithms/Analysis",
-    "6 - Full Notes/Economics/Thomas Sowell/Affirmative Action.md",
-    "6 - Full Notes/Politics/Concepts/Civil Rights Act of 1964.md",
-    "6 - Full Notes/Politics/Concepts/14th Amendment.md",
-    "6 - Full Notes/Politics/Concepts/Title VII.md",
-    "1 - Rough Notes/Title VII.md",
-    "1 - Rough Notes/Affirmative Action.md~",
-    "6 - Full Notes/Personal/Opinions",
-    "6 - Full Notes/Politics/Concepts",
-    "1 - Rough Notes/14th Amendment.md",
-    "1 - Rough Notes/Affirmative Action.md",
+    "6 - Full Notes/Programming/Software/Neovim/Commands/Tabs.md",
+    "6 - Full Notes/Programming/Software/Neovim/Commands/Searching.md",
+    "6 - Full Notes/Programming/Software/Neovim/Commands/Panes.md",
+    "6 - Full Notes/Programming/Software/Neovim/Commands/Macros.md",
+    "6 - Full Notes/Programming/Software/Neovim/Commands/Formatting.md",
+    "6 - Full Notes/Programming/Software/Neovim/Commands/Find & Replace.md",
+    "6 - Full Notes/Programming/Software/Neovim/Commands/Deleting.md",
+    "6 - Full Notes/Programming/Software/Neovim/Commands/Cursor.md",
     "1 - Rough Notes/Actor Model.md",
-    "1 - Rough Notes/Pure Function.md",
+    "6 - Full Notes/Programming/Software/Neovim/Commands.md",
+    "6 - Full Notes/Programming/Software/Neovim/Commands/Commands.md",
+    "6 - Full Notes/Programming/Software/Neovim/Commands",
+    "6 - Full Notes/Programming/Languages/Elixir/Elixir.md",
+    "6 - Full Notes/Programming/Engineering/Compiler/Formal Grammar.md",
+    "6 - Full Notes/Programming/Engineering/Interpreter/Interpreter.md",
+    "6 - Full Notes/Programming/Engineering/Interpreter",
+    "6 - Full Notes/Programming/Engineering/Compiler/Syntax Analysis.md",
+    "6 - Full Notes/Programming/Engineering/Compiler/Compiler.md",
+    "6 - Full Notes/Programming/Engineering/Compiler",
+    "6 - Full Notes/Programming/Concepts/Parser.md",
+    "1 - Rough Notes/Formal Grammar.md",
+    "1 - Rough Notes/Syntax Analysis.md",
+    "1 - Rough Notes/Metaprogramming.md",
+    "6 - Full Notes/Programming/Concepts/Metaprogramming.md",
+    "1 - Rough Notes/Interpreter.md",
+    "1 - Rough Notes/Compiler.md",
+    "1 - Rough Notes/Domain Specific Language.md",
+    "1 - Rough Notes/Parser.md",
+    "1 - Rough Notes/Parsers.md",
+    "6 - Full Notes/Programming/Languages/Elixir/Plugins",
+    "6 - Full Notes/Programming/Software/Stow",
+    "6 - Full Notes/Programming/Languages/Elixir/Commands",
+    "6 - Full Notes/Religion/Study",
+    "6 - Full Notes/Religion/Gnosticism/Concepts",
+    "6 - Full Notes/Religion/Gnosticism",
+    "6 - Full Notes/Programming/Data Structures & Algorithms/Minimax",
     "2 - Source Material/Gifs/ByteByteGo_AWS_Categories.gif",
     "Pasted image 20240710200643.png",
     "Pasted image 20240710200410.png",

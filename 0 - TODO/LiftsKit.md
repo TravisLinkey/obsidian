@@ -6,22 +6,19 @@ Tags: [[TODO]]
 - [?] Verify Google Play account
 
 ### Features
-- [ ] Improvise Workouts
-    - [ ] Submit Freestyle workout
-        - [ ] post workout created
-        - [ ] post workout performed
-
-    - [ ] Start Freestyle workout
-        - [ ] add to dropdown
-        - [ ] navigate to current workout freestyle
-
 - [ ] One Rep Max
 - [ ] Analytics
 - [ ] Wallet 
 - [ ] Google sign in !
 
 ### Bugs
+- [ ] Freestyle Workout
+    - [ ] Exercise list height
 
+- [ ] Listview Radiogroup
+
+- [ ] Start Workout
+    - [ ] Please select program (error)
 
 ### References
 - [[LiftsKit]]
