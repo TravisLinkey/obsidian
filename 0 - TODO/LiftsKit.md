@@ -5,20 +5,17 @@ Tags: [[TODO]]
 
 - [?] Verify Google Play account
 
+
 ### Features
+- [ ] Release to Prod
+
 - [ ] One Rep Max
 - [ ] Analytics
 - [ ] Wallet 
 - [ ] Google sign in !
 
 ### Bugs
-- [ ] Freestyle Workout
-    - [ ] Exercise list height
 
-- [ ] Listview Radiogroup
-
-- [ ] Start Workout
-    - [ ] Please select program (error)
 
 ### References
 - [[LiftsKit]]

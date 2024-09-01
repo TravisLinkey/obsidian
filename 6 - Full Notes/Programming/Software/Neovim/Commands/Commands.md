@@ -41,6 +41,9 @@
 - **Select content inside (), [], {}, etc**  
   `v` + `i` + `open delimiter`
 
+- **Replace content inside (), [], {}, etc, with yanked line**  
+  `v` + `i` + `open delimiter` + `p`
+
 ---
 
 ## Deleting
@@ -61,6 +64,9 @@
 4. Type the new word (replacing the word).
 5. Press `n` (move to next occurrence).
 6. Press `.` (repeat the last step).
+
+- **Replace current cursor word with yanked line**  
+  `viw` + `p`
 
 ---
 

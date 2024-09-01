@@ -6,6 +6,11 @@
 #### Generate a new project
 `mix new <project-name>`
 
+#### Start up Elixir Shell
+`iex` 
+
+** Hint: Interactive Elixir Shell
+
 #### Compile and Run a .ex file
 `iex -S mix`
 

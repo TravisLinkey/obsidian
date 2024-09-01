@@ -28,36 +28,12 @@
             }
           },
           {
-            "id": "bdf1b5560ec876fa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6 - Full Notes/Private/Professional/Interviews/Companies/ServiceCore/Mike Interview.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "424e03a3f8e918cc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "6 - Full Notes/Programming/Languages/Elixir/Elixir.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b47dd706b8673576",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 - Rough Notes/Actor Model.md",
                 "mode": "source",
                 "source": false
               }
@@ -74,9 +50,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a3a036be81eb43f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Full Notes/Programming/Languages/Elixir/Commands/mix.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -126,7 +114,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 230.5110321044922
+    "width": 200
   },
   "right": {
     "id": "4b7f478917d12190",
@@ -142,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6 - Full Notes/Programming/Software/Neovim/Commands/Commands.md",
+                "file": "6 - Full Notes/Programming/Languages/Elixir/Commands/mix.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6 - Full Notes/Programming/Software/Neovim/Commands/Commands.md",
+                "file": "6 - Full Notes/Programming/Languages/Elixir/Commands/mix.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6 - Full Notes/Programming/Software/Neovim/Commands/Commands.md"
+                "file": "6 - Full Notes/Programming/Languages/Elixir/Commands/mix.md"
               }
             }
           },
@@ -249,8 +237,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d5444b2e0aeaae88",
+  "active": "a3a036be81eb43f1",
   "lastOpenFiles": [
+    "6 - Full Notes/Programming/Languages/Elixir/Concepts/Actor Model.md",
+    "6 - Full Notes/Programming/Languages/Elixir/Actor Model.md",
+    "6 - Full Notes/Untitled.md",
+    "6 - Full Notes/Programming/Languages/Elixir/Commands/mix.md",
+    "1 - Rough Notes/2022. Convert 1D Array Into 2D Array.md",
+    "6 - Full Notes/Programming/Problems/LeetCode/2022. Convert 1D Array Into 2D Array.md",
+    "6 - Full Notes/Programming/Software/Neovim/Commands/Commands.md",
+    "6 - Full Notes/Programming/Software/Stow/Stow Dotfiles.md",
+    "0 - TODO/Learning.md",
+    "6 - Full Notes/Private/Professional/Interviews/Companies/ServiceCore/Mike Interview.md",
+    "6 - Full Notes/Programming/Languages/Elixir/Elixir.md",
+    "1 - Rough Notes/Actor Model.md",
     "6 - Full Notes/Programming/Software/Neovim/Commands/Tabs.md",
     "6 - Full Notes/Programming/Software/Neovim/Commands/Searching.md",
     "6 - Full Notes/Programming/Software/Neovim/Commands/Panes.md",
@@ -259,11 +259,8 @@
     "6 - Full Notes/Programming/Software/Neovim/Commands/Find & Replace.md",
     "6 - Full Notes/Programming/Software/Neovim/Commands/Deleting.md",
     "6 - Full Notes/Programming/Software/Neovim/Commands/Cursor.md",
-    "1 - Rough Notes/Actor Model.md",
     "6 - Full Notes/Programming/Software/Neovim/Commands.md",
-    "6 - Full Notes/Programming/Software/Neovim/Commands/Commands.md",
     "6 - Full Notes/Programming/Software/Neovim/Commands",
-    "6 - Full Notes/Programming/Languages/Elixir/Elixir.md",
     "6 - Full Notes/Programming/Engineering/Compiler/Formal Grammar.md",
     "6 - Full Notes/Programming/Engineering/Interpreter/Interpreter.md",
     "6 - Full Notes/Programming/Engineering/Interpreter",
@@ -271,15 +268,6 @@
     "6 - Full Notes/Programming/Engineering/Compiler/Compiler.md",
     "6 - Full Notes/Programming/Engineering/Compiler",
     "6 - Full Notes/Programming/Concepts/Parser.md",
-    "1 - Rough Notes/Formal Grammar.md",
-    "1 - Rough Notes/Syntax Analysis.md",
-    "1 - Rough Notes/Metaprogramming.md",
-    "6 - Full Notes/Programming/Concepts/Metaprogramming.md",
-    "1 - Rough Notes/Interpreter.md",
-    "1 - Rough Notes/Compiler.md",
-    "1 - Rough Notes/Domain Specific Language.md",
-    "1 - Rough Notes/Parser.md",
-    "1 - Rough Notes/Parsers.md",
     "6 - Full Notes/Programming/Languages/Elixir/Plugins",
     "6 - Full Notes/Programming/Software/Stow",
     "6 - Full Notes/Programming/Languages/Elixir/Commands",
