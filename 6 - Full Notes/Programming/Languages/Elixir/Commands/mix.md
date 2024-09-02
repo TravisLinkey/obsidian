@@ -1,21 +1,34 @@
+# Table of Contents
 
-2024-08-30 16:53
+1. [Mix](#mix)
+2. [Phoenix](#phoenix)
 
-### Commands 
+### Mix 
 
-#### Generate a new project
+- **Generate a new project**
 `mix new <project-name>`
 
-#### Start up Elixir Shell
+- **Start up Elixir Shell**
 `iex` 
 
 ** Hint: Interactive Elixir Shell
 
-#### Compile and Run a .ex file
+- **Compile and Run a .ex file**
 `iex -S mix`
 
-#### Install dependencies
+- **Install dependencies**
 `mix deps.get`
 
-#### Run Tests
+- **Run Tests**
 `mix test`
+
+### Pheonix
+
+- **Generate Phoenix Project**
+`mix phx.new <project-name>`
+
+- **Configure database**
+`mix ecto.create`
+
+- **Start Phoenix server**
+`mix phx.server`

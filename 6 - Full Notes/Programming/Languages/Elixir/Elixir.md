@@ -12,7 +12,7 @@ It runs on the [[Erlang Virtual Machine]] which makes it well suited for [[Distr
 - [[Functional Programming]]
 - [[Concurrency]]
 - [[Fault Tolerance]]
-- [[Phoenix Framework]]
+- [[Phoenix]]
 - [[Pattern Matching]]
 - Interoperability with [[Erlang]]
 - [[Metaprogramming]]
@@ -20,10 +20,12 @@ It runs on the [[Erlang Virtual Machine]] which makes it well suited for [[Distr
 
 ### Key Points
 - Scalability and Fault Tolerance
-- Functional Programming and Immutability: Emphasizes [[Pure Functions]], [[Immutability]], and [[Declarative Programming]]
+- Functional Programming and Immutability: Emphasizes [[Pure Function]], [[Immutability]], and [[Declarative Programming]]
 - Concurrency Model: Leverages lightweight processes, the [[Actor Model]], and [[Supervisors]] for fault-tolerant concurrency.
-- [[Phoenix Framework]]: Key for building real-time, performant web applications in Elixir.
+- [[Phoenix]]: Key for building real-time, performant web applications in Elixir.
 
 ### References
 - [[Mike Interview]]
+- ASDF Version Control - [[versions]]
+- Elixir Usage - [[mix]]
 

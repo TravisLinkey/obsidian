@@ -5,7 +5,6 @@ Tags: [[TODO]]
 
 - [?] Verify Google Play account
 
-
 ### Features
 - [ ] Release to Prod
 
@@ -15,7 +14,14 @@ Tags: [[TODO]]
 - [ ] Google sign in !
 
 ### Bugs
+- [ ] View History
+    - [ ] Exercise list is small
 
+- [ ] Add New Exercises
+    - [ ] Hack Squat, Zombie Front Squat
+    
+- [ ] Freestyle workout
+    - [ ] Add `AddExerciseSegment`
 
 ### References
 - [[LiftsKit]]

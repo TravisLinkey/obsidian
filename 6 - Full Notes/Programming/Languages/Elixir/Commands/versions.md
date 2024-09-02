@@ -1,11 +1,25 @@
+# Table of Contents
 
-2024-08-30 22:55
+1. [asdf](#asdf)
+1. [Phoenix](#phoenix)
 
-### Commands
+### asdf
 
-#### Upgrade Elixir
+- **Upgrade Elixir**
 `asdf install elixir <version>`
 
-#### Use Version
+- **Use Version**
 `asdf global elixir <version>`
 
+- **List versions**
+`asdf list-all erlang`
+
+### Phoenix
+
+- **Install particular version**
+`mix archive.uninstall phx_new`
+
+`mix archive.install hex phx_new <version>`
+
+- [Tutorial Link](https://dev.to/herminiotorres/til-how-to-install-a-specific-phoenix-version-94k)
+- [phx_new versions](https://hex.pm/packages/phx_new/1.5.2)>
