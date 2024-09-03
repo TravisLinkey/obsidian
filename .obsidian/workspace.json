@@ -60,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Databases & Storage/DynamoDB/Commands/DynamoDB SDK Query.md",
+                "file": "6 - Full Notes/Private/Professional/Interviews/Companies/Mint Mobile/Interview Prep.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Databases & Storage/DynamoDB/Commands/DynamoDB SDK Query.md",
+                "file": "6 - Full Notes/Private/Professional/Interviews/Companies/Mint Mobile/Interview Prep.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Databases & Storage/DynamoDB/Commands/DynamoDB SDK Query.md"
+                "file": "6 - Full Notes/Private/Professional/Interviews/Companies/Mint Mobile/Interview Prep.md"
               }
             }
           },
@@ -233,18 +233,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9d1dd9cad8dc6e8d",
+  "active": "782dc5395ae74162",
   "lastOpenFiles": [
+    "3 - Tags/SQL.md",
+    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Databases & Storage/DynamoDB/DynamoDB.md",
+    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Databases & Storage/DynamoDB/Commands/DynamoDB SDK Query.md",
+    "6 - Full Notes/Study Plan/Study Guides",
     "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Databases & Storage/DynamoDB/Concepts/ProjectionExpression.md",
     "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Databases & Storage/DynamoDB/Concepts/FilterExpression.md",
     "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Databases & Storage/DynamoDB/Concepts/Partition Key.md",
     "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Databases & Storage/DynamoDB/Concepts/Sort Key.md",
     "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Databases & Storage/DynamoDB/Concepts/KeyConditionExpression.md",
-    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Databases & Storage/DynamoDB/Commands/DynamoDB SDK Query.md",
     "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Databases & Storage/DynamoDB/Concepts/ExpressionAttributeValues.md",
     "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Databases & Storage/DynamoDB/Concepts",
     "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Databases & Storage/DynamoDB/Commands/DynamoDB SDK Query.md~",
-    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Databases & Storage/DynamoDB/DynamoDB.md",
     "1 - Rough Notes/Non Relational.md",
     "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Databases & Storage/DynamoDB/Commands",
     "6 - Full Notes/Private/Professional/Interviews/Companies/Mint Mobile/Interview Prep.md",
@@ -266,14 +268,12 @@
     "6 - Full Notes/Programming/Languages/SQL/Commands/GROUP BY.md",
     "6 - Full Notes/Programming/Languages/SQL/Commands/HAVING.md",
     "6 - Full Notes/Programming/Languages/SQL/Commands/SELECT.md",
-    "6 - Full Notes/Programming/Languages/SQL/Concepts/SELECT.md",
     "6 - Full Notes/Programming/Languages/SQL/Commands",
     "6 - Full Notes/Programming/Systems Design/Scenarios",
     "6 - Full Notes/Programming/Systems Design/Examples",
     "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Application Integration/EventBridge/EventBridge.md~",
     "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Application Integration/EventBridge/Concepts",
     "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Application Integration/EventBridge/Examples",
-    "1 - Rough Notes/Object Oriented Programming.md~",
     "Pasted image 20240710200643.png",
     "Pasted image 20240710200410.png",
     "Pasted image 20240710200331.png",
