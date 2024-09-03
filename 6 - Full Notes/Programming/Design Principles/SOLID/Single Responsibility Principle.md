@@ -1,7 +1,7 @@
 
 2024-09-02 15:57
 
-Tags: [[Design Principles]]
+Tags: [[Design Principle]]
 
 ### Overview
 All functionality of a class should be closely related.

@@ -1,12 +1,12 @@
 
 2024-09-02 15:55
 
-Tags: [[Design Principles]]
+Tags: [[Design Principle]]
 
 ### Overview
-A mnemonic acronym for five design principles intended to make [[Object Oriented Design]] more understandable, flexible and maintainable.
+A mnemonic acronym for five design principles intended to make [[Object Oriented Programming]] more understandable, flexible and maintainable.
 
-The can also inform methodologies such as [[Agile]] or [[Adaptive Software Development]].
+The can also inform methodologies such as [[Agile Development]] or [[Adaptive Software Development]].
 
 ### Principles
 - [[Single Responsibility Principle]]

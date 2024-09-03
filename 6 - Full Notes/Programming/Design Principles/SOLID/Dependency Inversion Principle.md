@@ -1,10 +1,10 @@
 
 2024-09-02 15:57
 
-Tags: [[Design Principles]]
+Tags: [[Design Principle]]
 
 ### Overview
-High-level modules should not depend on low-level modules. Instead, they should each depend on an abstraction.
+High-level modules should not depend on low-level modules. Instead, they should each depend on an <u>abstraction</u>.
 
 #### Example
 Imagine we have a `UserRepository` class that needs to use a [[MySQL]] database class. Call it `MySQLDatabase`.

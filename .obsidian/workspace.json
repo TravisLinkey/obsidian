@@ -16,7 +16,7 @@
             }
           },
           {
-            "id": "d3de52b8d77050da",
+            "id": "b4aa2466d6175083",
             "type": "leaf",
             "state": {
               "type": "bookmarked-dashboard-view",
@@ -34,9 +34,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "89c106f48685e2fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Databases & Storage/DynamoDB/DynamoDB.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9d1dd9cad8dc6e8d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Databases & Storage/DynamoDB/Commands/DynamoDB SDK Query.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -102,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6 - Full Notes/Private/Professional/Interviews/Companies/Mint Mobile/Interview Prep.md",
+                "file": "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Databases & Storage/DynamoDB/Commands/DynamoDB SDK Query.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6 - Full Notes/Private/Professional/Interviews/Companies/Mint Mobile/Interview Prep.md",
+                "file": "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Databases & Storage/DynamoDB/Commands/DynamoDB SDK Query.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6 - Full Notes/Private/Professional/Interviews/Companies/Mint Mobile/Interview Prep.md"
+                "file": "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Databases & Storage/DynamoDB/Commands/DynamoDB SDK Query.md"
               }
             }
           },
@@ -209,49 +233,50 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "782dc5395ae74162",
+  "active": "9d1dd9cad8dc6e8d",
   "lastOpenFiles": [
-    "6 - Full Notes/Programming/Languages/SQL/Practice/Links.md",
+    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Databases & Storage/DynamoDB/Concepts/ProjectionExpression.md",
+    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Databases & Storage/DynamoDB/Concepts/FilterExpression.md",
+    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Databases & Storage/DynamoDB/Concepts/Partition Key.md",
+    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Databases & Storage/DynamoDB/Concepts/Sort Key.md",
+    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Databases & Storage/DynamoDB/Concepts/KeyConditionExpression.md",
+    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Databases & Storage/DynamoDB/Commands/DynamoDB SDK Query.md",
+    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Databases & Storage/DynamoDB/Concepts/ExpressionAttributeValues.md",
+    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Databases & Storage/DynamoDB/Concepts",
+    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Databases & Storage/DynamoDB/Commands/DynamoDB SDK Query.md~",
+    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Databases & Storage/DynamoDB/DynamoDB.md",
+    "1 - Rough Notes/Non Relational.md",
+    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Databases & Storage/DynamoDB/Commands",
     "6 - Full Notes/Private/Professional/Interviews/Companies/Mint Mobile/Interview Prep.md",
-    "1 - Rough Notes/Fault Tolerance.md",
-    "6 - Full Notes/Programming/Concepts/Fault Tolerance.md",
-    "6 - Full Notes/Programming/Concepts/Exponential Backoff.md",
-    "1 - Rough Notes/Exponential Backoff.md",
-    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Application Integration/EventBridge/EventBridge.md",
-    "6 - Full Notes/Programming/Systems Design/Scenarios/Handling Duplicate Events.md",
-    "6 - Full Notes/Programming/Systems Design/Scenarios/AWS MicroService Fault Tolerance.md",
+    "2 - Source Material/Gifs/ByteByteGo_AWS_Categories.gif",
+    "2 - Source Material/Diagrams/Design Google Maps.png",
+    "2 - Source Material/Diagrams/SQL_Query_Execution.png",
+    "6 - Full Notes/Programming/Languages/SQL/SQL.md",
+    "6 - Full Notes/Programming/Languages/SQL/Concepts/Outer Join.md",
+    "6 - Full Notes/Programming/Design Principles/SOLID/SOLID.md",
+    "6 - Full Notes/Programming/Design Principles/SOLID/Interface Segregation Principle.md",
+    "6 - Full Notes/Programming/Design Principles/SOLID/Dependency Inversion Principle.md",
+    "6 - Full Notes/Programming/Design Principles/SOLID/Liskov Substitution Principle.md",
+    "6 - Full Notes/Programming/Design Principles/SOLID/Single Responsibility Principle.md",
+    "6 - Full Notes/Programming/Design Principles/SOLID/Open Closed Principle.md",
+    "4 - Indexes/SQL.md",
+    "6 - Full Notes/Programming/Languages/SQL/Concepts/Inner Join.md",
+    "6 - Full Notes/Programming/Languages/SQL/Commands/JOIN.md",
+    "6 - Full Notes/Programming/Languages/SQL/Commands/ORDER BY.md",
+    "6 - Full Notes/Programming/Languages/SQL/Commands/GROUP BY.md",
+    "6 - Full Notes/Programming/Languages/SQL/Commands/HAVING.md",
+    "6 - Full Notes/Programming/Languages/SQL/Commands/SELECT.md",
+    "6 - Full Notes/Programming/Languages/SQL/Concepts/SELECT.md",
+    "6 - Full Notes/Programming/Languages/SQL/Commands",
     "6 - Full Notes/Programming/Systems Design/Scenarios",
-    "6 - Full Notes/Programming/Systems Design/Examples/Handling Duplicate Events.md",
-    "6 - Full Notes/Programming/Systems Design/Examples/AWS MicroService Fault Tolerance.md",
     "6 - Full Notes/Programming/Systems Design/Examples",
     "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Application Integration/EventBridge/EventBridge.md~",
-    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Application Integration/EventBridge/Concepts/Event Pattern.md",
-    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Application Integration/EventBridge/Concepts/Event Patterns.md",
-    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Application Integration/EventBridge/Concepts/Event Filtering.md",
     "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Application Integration/EventBridge/Concepts",
-    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Application Integration/EventBridge/Examples/MicroService Event Bus.md",
     "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Application Integration/EventBridge/Examples",
-    "6 - Full Notes/Programming/Languages/TypeScript/Concepts/ESNext.md",
-    "1 - Rough Notes/ECMAScript.md",
-    "6 - Full Notes/Programming/Concepts/Object Oriented Programming.md",
     "1 - Rough Notes/Object Oriented Programming.md~",
-    "1 - Rough Notes/ESNext.md",
-    "1 - Rough Notes/Object Oriented Programming.md",
-    "6 - Full Notes/Programming/Languages/TypeScript/TypeScript.md",
-    "6 - Full Notes/Programming/Design Principles/REST/REST.md",
-    "6 - Full Notes/Private/Professional/Interviews/Companies/ServiceCore/Mike Interview.md",
-    "6 - Full Notes/Programming/Design Principles/SOLID/Interface Segregation Principle.md~",
-    "6 - Full Notes/Programming/Concepts/Interface.md",
-    "1 - Rough Notes/Interface.md",
-    "6 - Full Notes/Programming/Concepts/Dependency Injection.md",
-    "6 - Full Notes/Programming/Design Principles/SOLID",
-    "6 - Full Notes/Programming/Design Principles/REST",
-    "6 - Full Notes/Programming/Languages/Elixir/Errors",
-    "2 - Source Material/Gifs/ByteByteGo_AWS_Categories.gif",
     "Pasted image 20240710200643.png",
     "Pasted image 20240710200410.png",
     "Pasted image 20240710200331.png",
-    "2 - Source Material/Diagrams/Design Google Maps.png",
     "2 - Source Material/Diagrams/Design Google Maps 1.png",
     "Pasted image 20240529133154.png",
     "Pasted image 20240526092037.png"

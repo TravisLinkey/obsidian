@@ -1,11 +1,23 @@
+2024-09-03 06:04
 
-2024-05-30 17:34
-
-Status:
 Tag: [[AWS]] | [[Database]] | [[NoSQL]]
 
-## Overview
+### Overview
+A [[Non Relational]] for [[AWS]]
 
+### To Use
+- [[DynamoDB SDK Query]]
 
-## References:
+### Key Concepts
+- [[Partition Key]]
+- [[Sort Key]]
+
+#### For Queries
+- [[ExpressionAttributeValues]]
+- [[FilterExpression]]
+- [[KeyConditionExpression]]
+- [[ProjectionExpression]]
+
+### References
+- [[]]
 

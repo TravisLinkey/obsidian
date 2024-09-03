@@ -1,7 +1,7 @@
 
 2024-09-02 15:56
 
-Tag: [[Design Principles]]
+Tag: [[Design Principle]]
 
 ### Overview
 Software Entities (classes, modules, functions, etc.) should be **open for extension but closed for modification**.

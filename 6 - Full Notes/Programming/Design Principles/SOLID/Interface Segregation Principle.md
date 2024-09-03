@@ -1,7 +1,7 @@
 
 2024-09-02 15:57
 
-Tags: [[Design Principles]]
+Tags: [[Design Principle]]
 
 ### Overview
 No code should be forced to depend on methods it does not use.
