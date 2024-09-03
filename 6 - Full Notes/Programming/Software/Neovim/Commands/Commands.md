@@ -95,7 +95,7 @@
 
 ## Other
 
-- **Open url in browser:**  
+- **Open url link in browser:**  
   `gx`
 
 - **Join two lines**  

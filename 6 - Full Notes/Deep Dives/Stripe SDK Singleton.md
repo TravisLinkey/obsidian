@@ -1,7 +1,7 @@
 
 2024-06-09 13:15
 
-Tag: [[Design Patterns]] | [[Singleton Pattern]] | [[3 - Tags/Interview|Interview]]
+Tag: [[Design Pattern]] | [[Singleton Pattern]] | [[3 - Tags/Interview|Interview]]
 
 ## Overview
 

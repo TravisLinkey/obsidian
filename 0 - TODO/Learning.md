@@ -14,9 +14,9 @@ Tags: [[TODO]]
 - [x] Section 4. A Few Side Topics
 - [x] Section 5. Image manipulation with Elixir
 - [x] Section 6. Structs - Elixir's Data Modeling Tool
+- [x] Section 7. On to Phoenix
 
 ##### TODO
-- [ ] Section 7. On to Phoenix
 - [ ] Section 8. MVC in Phoenix
 - [ ] Section 9. Models in Phoenix
 - [ ] Section 10. Working with Postgres

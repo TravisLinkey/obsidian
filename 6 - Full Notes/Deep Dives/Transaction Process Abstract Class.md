@@ -1,7 +1,7 @@
 
 2024-06-09 13:15
 
-Tag: [[Interview]] | [[Prep]] | [[Design Patterns]] | [[Strategy Pattern]]
+Tag: [[Interview]] | [[Prep]] | [[Design Pattern]] | [[Strategy Pattern]]
 
 ## Overview
 
