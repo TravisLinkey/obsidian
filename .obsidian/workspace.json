@@ -24,36 +24,12 @@
             }
           },
           {
-            "id": "782dc5395ae74162",
+            "id": "254ab3850e8b85c3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Full Notes/Private/Professional/Interviews/Companies/Mint Mobile/Interview Prep.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "89c106f48685e2fb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Databases & Storage/DynamoDB/DynamoDB.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9d1dd9cad8dc6e8d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Databases & Storage/DynamoDB/Commands/DynamoDB SDK Query.md",
+                "file": "6 - Full Notes/Programming/Languages/Elixir/Commands/mix.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 296.5
   },
   "right": {
     "id": "4b7f478917d12190",
@@ -126,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6 - Full Notes/Private/Professional/Interviews/Companies/Mint Mobile/Interview Prep.md",
+                "file": "6 - Full Notes/Programming/Languages/Elixir/Commands/mix.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6 - Full Notes/Private/Professional/Interviews/Companies/Mint Mobile/Interview Prep.md",
+                "file": "6 - Full Notes/Programming/Languages/Elixir/Commands/mix.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6 - Full Notes/Private/Professional/Interviews/Companies/Mint Mobile/Interview Prep.md"
+                "file": "6 - Full Notes/Programming/Languages/Elixir/Commands/mix.md"
               }
             }
           },
@@ -233,47 +209,47 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "782dc5395ae74162",
+  "active": "254ab3850e8b85c3",
   "lastOpenFiles": [
-    "3 - Tags/SQL.md",
-    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Databases & Storage/DynamoDB/DynamoDB.md",
-    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Databases & Storage/DynamoDB/Commands/DynamoDB SDK Query.md",
-    "6 - Full Notes/Study Plan/Study Guides",
-    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Databases & Storage/DynamoDB/Concepts/ProjectionExpression.md",
-    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Databases & Storage/DynamoDB/Concepts/FilterExpression.md",
-    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Databases & Storage/DynamoDB/Concepts/Partition Key.md",
-    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Databases & Storage/DynamoDB/Concepts/Sort Key.md",
-    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Databases & Storage/DynamoDB/Concepts/KeyConditionExpression.md",
-    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Databases & Storage/DynamoDB/Concepts/ExpressionAttributeValues.md",
-    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Databases & Storage/DynamoDB/Concepts",
-    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Databases & Storage/DynamoDB/Commands/DynamoDB SDK Query.md~",
-    "1 - Rough Notes/Non Relational.md",
-    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Databases & Storage/DynamoDB/Commands",
-    "6 - Full Notes/Private/Professional/Interviews/Companies/Mint Mobile/Interview Prep.md",
+    "6 - Full Notes/Personal/Cooking/Chinese Spicy Cucumbers.md",
+    "6 - Full Notes/Personal/Cooking",
+    "6 - Full Notes/Private/Professional/Work History/John Deere/Projects/Transaction Process.md",
+    "6 - Full Notes/Private/Professional/Work History/John Deere/Projects/Smartlook.md",
+    "6 - Full Notes/Private/Professional/Work History/John Deere/Projects/Elavon Service.md",
+    "6 - Full Notes/Private/Professional/Work History/John Deere/Projects/Elavon Lambda Alarms.md",
+    "6 - Full Notes/Private/Professional/Work History/John Deere/Projects/DPP Elavon SNS Subscriptions.md",
+    "6 - Full Notes/Private/Professional/Work History/John Deere/Concepts/JDF Revolving.md",
+    "6 - Full Notes/Private/Professional/Work History/John Deere/Concepts/Digital Payment.md",
+    "6 - Full Notes/Private/Professional/Work History/BragSheet/LiftsKit/Expo Refactor.md",
+    "6 - Full Notes/Private/Professional/Work History/BragSheet/LiftsKit/Context Refactor.md",
+    "6 - Full Notes/Private/Professional/Work History/BragSheet/John Deere/Smartlook Integration.md",
+    "6 - Full Notes/Private/Professional/Work History/BragSheet/John Deere/Lambda Cold Start.md",
+    "6 - Full Notes/Private/Professional/Work History/BragSheet/John Deere/Iframe Security.md",
+    "6 - Full Notes/Private/Professional/Work History/BragSheet/John Deere/Frontend Refactor.md",
+    "6 - Full Notes/Private/Professional/Work History/BragSheet/John Deere/Digital Checkout.md",
+    "6 - Full Notes/Private/Professional/Work History/BragSheet/John Deere/Digital Checkout BFF.md",
+    "6 - Full Notes/Private/Professional/Work History/BragSheet/John Deere/CloudWatch Alerts.md",
+    "6 - Full Notes/Private/Professional/Study/AWS/Notes/Associates Certification Notes.md",
+    "6 - Full Notes/Private/Professional/Study/AWS/Exams/Solutions Architect Associate.md",
+    "6 - Full Notes/Private/Professional/Study/AWS/Exams/Developer Associates.md",
+    "6 - Full Notes/Private/Professional/Interviews/Companies/ServiceCore/Why Do You Want To Work Here.md",
+    "6 - Full Notes/Private/Professional/Interviews/Companies/ServiceCore/ServiceCore.md",
+    "6 - Full Notes/Private/Professional/Interviews/Companies/ServiceCore/ServiceCore Third Interview Prep.md",
+    "6 - Full Notes/Private/Professional/Interviews/Companies/ServiceCore/ServiceCore - Final Interview 2.md",
+    "6 - Full Notes/Private/Professional/Interviews/Companies/ServiceCore/Questions For Sean.md",
+    "6 - Full Notes/Private/Professional/Interviews/Companies/ServiceCore/Previous Interview Experience.md",
+    "6 - Full Notes/Private/Professional/Work History/John Deere/Projects",
+    "6 - Full Notes/Private/Professional/Work History/John Deere/Concepts",
+    "6 - Full Notes/Private/Professional/Work History/BragSheet/LiftsKit",
+    "6 - Full Notes/Private/Professional/Work History/BragSheet/John Deere",
+    "6 - Full Notes/Private/Professional/Study/AWS/Notes",
+    "6 - Full Notes/Private/Professional/Study/AWS/Exams",
+    "6 - Full Notes/Private/Professional/Interviews/Companies/ServiceCore",
+    "6 - Full Notes/Private/Professional/Interviews/Companies/Rocket Companies",
+    "6 - Full Notes/Private/Professional/Interviews/Companies/Mint Mobile",
     "2 - Source Material/Gifs/ByteByteGo_AWS_Categories.gif",
     "2 - Source Material/Diagrams/Design Google Maps.png",
     "2 - Source Material/Diagrams/SQL_Query_Execution.png",
-    "6 - Full Notes/Programming/Languages/SQL/SQL.md",
-    "6 - Full Notes/Programming/Languages/SQL/Concepts/Outer Join.md",
-    "6 - Full Notes/Programming/Design Principles/SOLID/SOLID.md",
-    "6 - Full Notes/Programming/Design Principles/SOLID/Interface Segregation Principle.md",
-    "6 - Full Notes/Programming/Design Principles/SOLID/Dependency Inversion Principle.md",
-    "6 - Full Notes/Programming/Design Principles/SOLID/Liskov Substitution Principle.md",
-    "6 - Full Notes/Programming/Design Principles/SOLID/Single Responsibility Principle.md",
-    "6 - Full Notes/Programming/Design Principles/SOLID/Open Closed Principle.md",
-    "4 - Indexes/SQL.md",
-    "6 - Full Notes/Programming/Languages/SQL/Concepts/Inner Join.md",
-    "6 - Full Notes/Programming/Languages/SQL/Commands/JOIN.md",
-    "6 - Full Notes/Programming/Languages/SQL/Commands/ORDER BY.md",
-    "6 - Full Notes/Programming/Languages/SQL/Commands/GROUP BY.md",
-    "6 - Full Notes/Programming/Languages/SQL/Commands/HAVING.md",
-    "6 - Full Notes/Programming/Languages/SQL/Commands/SELECT.md",
-    "6 - Full Notes/Programming/Languages/SQL/Commands",
-    "6 - Full Notes/Programming/Systems Design/Scenarios",
-    "6 - Full Notes/Programming/Systems Design/Examples",
-    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Application Integration/EventBridge/EventBridge.md~",
-    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Application Integration/EventBridge/Concepts",
-    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Application Integration/EventBridge/Examples",
     "Pasted image 20240710200643.png",
     "Pasted image 20240710200410.png",
     "Pasted image 20240710200331.png",

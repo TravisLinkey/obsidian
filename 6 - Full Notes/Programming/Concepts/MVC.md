@@ -6,7 +6,7 @@ Tags: [[Design Pattern]]
 ### Overview
 Model View Controller
 
-Seperates application's logic into three interconnected parts:
+Separates application's logic into three interconnected parts:
 1. Model
     - Manages data and business logic.
 2. View

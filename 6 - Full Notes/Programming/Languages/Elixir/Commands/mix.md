@@ -22,7 +22,7 @@
 - **Run Tests**
 `mix test`
 
-### Pheonix
+### Phoenix
 
 - **Generate Phoenix Project**
 `mix phx.new <project-name>`

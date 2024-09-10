@@ -8,7 +8,7 @@ To sort a dictionary by key in [[JavaScript]] you need to use the `.sort()` meth
 
 You can get the entries of a dictionary using the `Object.entries`.
 
-The `.sort()` method returns an array of sorted `tuples`. You can convert this back to a dictonary using the `Object.fromEntries()` method.
+The `.sort()` method returns an array of sorted `tuples`. You can convert this back to a dictionary using the `Object.fromEntries()` method.
 
 ### Details
 This is demonstrated below with dictionary keys that are of the type `string` that represent dates.
