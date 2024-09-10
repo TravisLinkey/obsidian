@@ -13,3 +13,6 @@ I accidentally added files from my /Private folder in obsidian to my commit hist
 The `--soft` flag removed commits from my local, without overwriting the files locally. (I wanted the files still).
 
 I needed the `HEAD~4` because there were already 4 local commits in my history that I wanted to remove. (Or squash)
+
+### Source Material
+- [Github article](https://stackoverflow.com/questions/12481639/remove-file-from-latest-commit)
