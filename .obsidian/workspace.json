@@ -35,8 +35,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -209,8 +208,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "254ab3850e8b85c3",
+  "active": "686a52ec3e996947",
   "lastOpenFiles": [
+    "6 - Full Notes/Programming/Problems/LeetCode/1367. Linked List in Binary Tree.md",
+    "6 - Full Notes/Programming/Problems/LeetCode/2807. Insert Greatest Common Divisor in Linked List.md",
+    "1 - Rough Notes/2807. Insert Greatest Common Divisor in Linked List.md",
     "6 - Full Notes/Programming/Software/Git/Added Private Files.md~",
     "6 - Full Notes/Programming/Software/Git/Added Private Files.md",
     "6 - Full Notes/Personal/Cooking/Chinese Spicy Cucumbers.md",
@@ -236,8 +238,6 @@
     "6 - Full Notes/Private/Professional/Study/AWS/Exams/Developer Associates.md",
     "6 - Full Notes/Private/Professional/Interviews/Companies/ServiceCore/Why Do You Want To Work Here.md",
     "6 - Full Notes/Private/Professional/Interviews/Companies/ServiceCore/ServiceCore.md",
-    "6 - Full Notes/Private/Professional/Interviews/Companies/ServiceCore/ServiceCore Third Interview Prep.md",
-    "6 - Full Notes/Private/Professional/Interviews/Companies/ServiceCore/ServiceCore - Final Interview 2.md",
     "6 - Full Notes/Private/Professional/Work History/John Deere/Projects",
     "6 - Full Notes/Private/Professional/Work History/John Deere/Concepts",
     "6 - Full Notes/Private/Professional/Work History/BragSheet/LiftsKit",
@@ -246,7 +246,6 @@
     "6 - Full Notes/Private/Professional/Study/AWS/Exams",
     "6 - Full Notes/Private/Professional/Interviews/Companies/ServiceCore",
     "6 - Full Notes/Private/Professional/Interviews/Companies/Rocket Companies",
-    "6 - Full Notes/Private/Professional/Interviews/Companies/Mint Mobile",
     "2 - Source Material/Gifs/ByteByteGo_AWS_Categories.gif",
     "2 - Source Material/Diagrams/Design Google Maps.png",
     "2 - Source Material/Diagrams/SQL_Query_Execution.png",

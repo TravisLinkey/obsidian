@@ -7,12 +7,12 @@ A concurrency model of [[Elixir]] where `Actors` are the fundamental units of co
 In this model `Actors` communicate with each other through message passing.
 kjk
 ### Details
-1. Actors as processes
+1. Actors as [[Processes]]
     - `Actors` are lightweight processes managed by the [[BEAM]]. They are not the same as operating system threads; they are more lightweight and run with [[Concurrency]].
     - Thousands or even millions of them can run simutaneously on a single machine.
     - They have their own state and do no share memory, preventing race conditions.
 
-2. Message passing
+2. [[Message Passing]]
     - Communication is asynchronous, when they send a message, they do not wait for a response before continuing execution.
 
 ### References

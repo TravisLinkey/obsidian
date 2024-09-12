@@ -32,3 +32,11 @@
 
 - **Start Phoenix server**
 `mix phx.server`
+
+- **See all routes**
+`mix phx.routes`
+
+- **Generate Model Files**
+`mix phx.gen.html <resource-context> <resource-schema> <resource-name> <fields>`
+
+- [Phoenix docs](https://hexdocs.pm/phoenix/Mix.Tasks.Phx.Gen.Html.html)
