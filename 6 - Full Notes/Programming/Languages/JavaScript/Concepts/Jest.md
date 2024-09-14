@@ -1,7 +1,7 @@
 
 2024-09-02 15:42
 
-Tags: [[]]
+Tags: [[JavaScript]]
 
 ### Overview
 A testing module for [[JavaScript]]

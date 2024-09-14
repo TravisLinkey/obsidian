@@ -22,20 +22,9 @@
               "type": "bookmarked-dashboard-view",
               "state": {}
             }
-          },
-          {
-            "id": "254ab3850e8b85c3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6 - Full Notes/Programming/Languages/Elixir/Commands/mix.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 296.5
+    "width": 218.5
   },
   "right": {
     "id": "4b7f478917d12190",
@@ -101,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6 - Full Notes/Programming/Languages/Elixir/Commands/mix.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +106,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6 - Full Notes/Programming/Languages/Elixir/Commands/mix.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6 - Full Notes/Programming/Languages/Elixir/Commands/mix.md"
+                "file": "6 - Full Notes/Programming/Libraries/React/Hooks/useTransition.md"
               }
             }
           },
@@ -208,44 +195,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "686a52ec3e996947",
+  "active": "0e70ac006bb0b5f4",
   "lastOpenFiles": [
+    "6 - Full Notes/Programming/Libraries/React/Hooks/useMemo/useMemo.md",
+    "6 - Full Notes/Programming/Libraries/React/Hooks/useMemo",
+    "6 - Full Notes/Programming/Libraries/React/Hooks/useCallback/4913",
+    "6 - Full Notes/Programming/Libraries/React/Hooks/useCallback/Troubleshooting - Use Dependency Array.md",
+    "6 - Full Notes/Programming/Libraries/React/Hooks/useCallback/Optimizing a Custom Hook.md",
+    "6 - Full Notes/Programming/Libraries/React/Hooks/useCallback/Updating State from a Memoized Callback.md",
+    "6 - Full Notes/Programming/Libraries/React/Hooks/useCallback/Skipping Re-Rendering of Components.md",
+    "6 - Full Notes/Programming/Libraries/React/Hooks/useCallback/useCallback.md",
+    "6 - Full Notes/Programming/Libraries/React/Hooks/useCallback/isCallback.md",
+    "6 - Full Notes/Programming/Libraries/React/Hooks/useCallback",
+    "6 - Full Notes/Programming/Libraries/React/Hooks/useDeferredValue/Indicating Content is Stale.md",
+    "6 - Full Notes/Programming/Libraries/React/Hooks/useDeferredValue/Deferring Re-Rendering a Part of UI.md",
+    "6 - Full Notes/Programming/Libraries/React/Hooks/useDeferredValue/Fresh Content is Loading.md",
+    "6 - Full Notes/Programming/Libraries/React/Hooks/useDeferredValue/useDeferredValue.md",
+    "6 - Full Notes/Programming/Libraries/React/Hooks/useDeferredValue",
+    "6 - Full Notes/Programming/Libraries/React/Hooks/useTransition/useTransition.md",
+    "6 - Full Notes/Programming/Libraries/React/Hooks/useTransition/Updating Parent Component in a Transition.md",
+    "6 - Full Notes/Programming/Libraries/React/Hooks/useTransition/Non-Blocking Transition.md",
+    "6 - Full Notes/Programming/Libraries/React/Hooks/useTransition/Displaying a Pending Visual State During Transition.md",
+    "6 - Full Notes/Programming/Libraries/React/Hooks/useTransition",
+    "6 - Full Notes/Programming/Libraries/React/Examples/Deferring Re-Rendering a Part of UI.md",
+    "6 - Full Notes/Programming/Libraries/React/Examples/Indicating Content is Stale.md",
+    "6 - Full Notes/Programming/Libraries/React/Examples/Indicating Content is Stale.mdc",
+    "6 - Full Notes/Programming/Libraries/React/Examples/Fresh Content is Loading.md",
+    "6 - Full Notes/Programming/Libraries/React/Hooks/isCallback.md",
+    "1 - Rough Notes/isCallback.md",
+    "6 - Full Notes/Programming/Languages/JavaScript/Concepts/Jest.md",
+    "6 - Full Notes/Programming/Libraries/React/Examples/Displaying a Pending Visual State During Transition.md",
     "6 - Full Notes/Programming/Libraries/React/Hooks/useTransition.md",
-    "6 - Full Notes/Programming/Libraries/React/Examples/Non-Blocking Transition.md",
+    "6 - Full Notes/Displaying a Pending Visual State During Transition.md",
+    "6 - Full Notes/Programming/Libraries/React/Hooks/Hooks.md",
+    "6 - Full Notes/Programming/Libraries/React/Examples/Displaying a Pending Visual State During Transiton.md",
+    "6 - Full Notes/Programming/Data Structures & Algorithms/Prefix Sum",
     "6 - Full Notes/Programming/Libraries/React/Examples",
     "6 - Full Notes/Programming/Libraries/React/Hooks",
     "6 - Full Notes/Programming/Libraries/React/Concepts",
-    "6 - Full Notes/Programming/Libraries/Redux/Redux.md",
-    "6 - Full Notes/Programming/Libraries/Redux",
-    "6 - Full Notes/Programming/Libraries/React/React.md",
-    "6 - Full Notes/Programming/Libraries/React",
-    "1 - Rough Notes/useDeferredValue.md",
-    "1 - Rough Notes/useTransition.md",
-    "6 - Full Notes/Programming/Problems/LeetCode/1367. Linked List in Binary Tree.md",
-    "6 - Full Notes/Programming/Problems/LeetCode/2807. Insert Greatest Common Divisor in Linked List.md",
-    "1 - Rough Notes/2807. Insert Greatest Common Divisor in Linked List.md",
-    "6 - Full Notes/Programming/Software/Git/Added Private Files.md~",
-    "6 - Full Notes/Programming/Software/Git/Added Private Files.md",
-    "6 - Full Notes/Personal/Cooking/Chinese Spicy Cucumbers.md",
-    "6 - Full Notes/Personal/Cooking",
-    "6 - Full Notes/Private/Professional/Work History/John Deere/Projects/Transaction Process.md",
-    "6 - Full Notes/Private/Professional/Work History/John Deere/Projects/Smartlook.md",
-    "6 - Full Notes/Private/Professional/Work History/John Deere/Projects/Elavon Service.md",
-    "6 - Full Notes/Private/Professional/Work History/John Deere/Projects/Elavon Lambda Alarms.md",
-    "6 - Full Notes/Private/Professional/Work History/John Deere/Projects/DPP Elavon SNS Subscriptions.md",
-    "6 - Full Notes/Private/Professional/Work History/John Deere/Concepts/JDF Revolving.md",
-    "6 - Full Notes/Private/Professional/Work History/John Deere/Concepts/Digital Payment.md",
-    "6 - Full Notes/Private/Professional/Work History/BragSheet/LiftsKit/Expo Refactor.md",
-    "6 - Full Notes/Private/Professional/Work History/BragSheet/LiftsKit/Context Refactor.md",
-    "6 - Full Notes/Private/Professional/Work History/BragSheet/John Deere/Smartlook Integration.md",
-    "6 - Full Notes/Private/Professional/Work History/BragSheet/John Deere/Lambda Cold Start.md",
-    "6 - Full Notes/Private/Professional/Work History/BragSheet/John Deere/Iframe Security.md",
-    "6 - Full Notes/Private/Professional/Work History/BragSheet/John Deere/Frontend Refactor.md",
-    "6 - Full Notes/Private/Professional/Work History/BragSheet/John Deere/Digital Checkout.md",
-    "6 - Full Notes/Private/Professional/Work History/BragSheet/John Deere/Digital Checkout BFF.md",
-    "6 - Full Notes/Private/Professional/Work History/John Deere/Projects",
-    "6 - Full Notes/Private/Professional/Work History/John Deere/Concepts",
-    "6 - Full Notes/Private/Professional/Work History/BragSheet/LiftsKit",
     "2 - Source Material/Gifs/ByteByteGo_AWS_Categories.gif",
     "2 - Source Material/Diagrams/Design Google Maps.png",
     "2 - Source Material/Diagrams/SQL_Query_Execution.png",

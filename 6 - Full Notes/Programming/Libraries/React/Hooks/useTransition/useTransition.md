@@ -1,7 +1,7 @@
 
 2024-09-12 19:38
 
-Tags: [[React]] | 
+Tags: [[React]]
 
 ### Overview
 Allows updating the state without blocking the UI.
@@ -17,8 +17,12 @@ const [isPending, startTransition] = useTransition();
 
 ### Use Cases
 - [[Non-Blocking Transition]]
+- [[Updating Parent Component in a Transition]]
+- [[Displaying a Pending Visual State During Transition]]
 
+### Source Material
+- [Youtube link](https://www.youtube.com/watch?v=1xjSQJWejZM)
 
 ### References
-- [[]]
+- [[Hooks]]
 
