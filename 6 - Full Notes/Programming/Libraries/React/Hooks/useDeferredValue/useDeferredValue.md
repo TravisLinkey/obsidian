@@ -1,7 +1,7 @@
 
 2024-09-13 16:00
 
-Tags: [[React]] | 
+Tags: [[React]]
 
 ### Overview
 A hook that allows you to defer updating a part of the UI.

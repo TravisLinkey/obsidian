@@ -16,15 +16,55 @@
             }
           },
           {
-            "id": "b4aa2466d6175083",
+            "id": "f4ec2851b91601d5",
             "type": "leaf",
             "state": {
-              "type": "bookmarked-dashboard-view",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "6 - Full Notes/Programming/Libraries/React/Hooks/useCallback/useCallback.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0e27f766e796427f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Full Notes/Programming/Libraries/React/Hooks/useDeferredValue/useDeferredValue.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "66c88ad2c067a8c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Full Notes/Programming/Libraries/React/Hooks/useCallback/Updating State from a Memoized Callback.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "81dc871a6a417d4c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Full Notes/Programming/Libraries/React/Hooks/useCallback/Skipping Re-Rendering of Components.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -74,7 +114,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 218.5
+    "width": 365.5
   },
   "right": {
     "id": "4b7f478917d12190",
@@ -90,6 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "6 - Full Notes/Programming/Libraries/React/Hooks/useDeferredValue/useDeferredValue.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "6 - Full Notes/Programming/Libraries/React/Hooks/useDeferredValue/useDeferredValue.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6 - Full Notes/Programming/Libraries/React/Hooks/useTransition.md"
+                "file": "6 - Full Notes/Programming/Libraries/React/Hooks/useDeferredValue/useDeferredValue.md"
               }
             }
           },
@@ -195,40 +237,40 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0e70ac006bb0b5f4",
+  "active": "0e27f766e796427f",
   "lastOpenFiles": [
+    "6 - Full Notes/Programming/Libraries/React/Hooks/useTransition/Non-Blocking Transition.md",
+    "6 - Full Notes/Programming/Libraries/React/Hooks/useTransition/Updating Parent Component in a Transition.md",
+    "6 - Full Notes/Programming/Libraries/React/Hooks/useTransition/useTransition.md",
+    "6 - Full Notes/Programming/Libraries/React/Hooks/useDeferredValue/useDeferredValue.md",
+    "6 - Full Notes/Programming/Libraries/React/Hooks/useCallback/Optimizing a Custom Hook.md",
+    "6 - Full Notes/Programming/Libraries/React/Hooks/useCallback/Updating State from a Memoized Callback.md",
+    "6 - Full Notes/Hook.md",
+    "6 - Full Notes/Programming/Libraries/React/Hooks/useCallback/useCallback.md",
+    "6 - Full Notes/Programming/Libraries/React/Hooks/useCallback/Skipping Re-Rendering of Components.md",
+    "6 - Full Notes/Programming/Software/Obsidian/Deploy Plugin.md",
+    "4 - Indexes/Study.md",
+    "6 - Full Notes/Programming/Frameworks/ReactJS/Problems/BFE/BFE.md",
+    "6 - Full Notes/Programming/Frameworks/ReactJS/Problems/BFE/4. React re-render 4.md",
+    "6 - Full Notes/Programming/Frameworks/ReactJS/Problems/BFE/2. React re-render 2 - memo().md",
+    "6 - Full Notes/Programming/Frameworks/ReactJS/Problems/BFE/10. useLayoutEffect().md",
+    "6 - Full Notes/Programming/Frameworks/ReactJS/Problems/BFE/1. React re-render 1.md",
+    "6 - Full Notes/Programming/Frameworks/ReactJS/Concepts/useLayoutEffect.md",
+    "6 - Full Notes/Programming/Frameworks/ReactJS/Concepts/Hooks.md",
+    "6 - Full Notes/Programming/Libraries/React/Hooks/useTransition.md",
     "6 - Full Notes/Programming/Libraries/React/Hooks/useMemo/useMemo.md",
     "6 - Full Notes/Programming/Libraries/React/Hooks/useMemo",
     "6 - Full Notes/Programming/Libraries/React/Hooks/useCallback/4913",
     "6 - Full Notes/Programming/Libraries/React/Hooks/useCallback/Troubleshooting - Use Dependency Array.md",
-    "6 - Full Notes/Programming/Libraries/React/Hooks/useCallback/Optimizing a Custom Hook.md",
-    "6 - Full Notes/Programming/Libraries/React/Hooks/useCallback/Updating State from a Memoized Callback.md",
-    "6 - Full Notes/Programming/Libraries/React/Hooks/useCallback/Skipping Re-Rendering of Components.md",
-    "6 - Full Notes/Programming/Libraries/React/Hooks/useCallback/useCallback.md",
     "6 - Full Notes/Programming/Libraries/React/Hooks/useCallback/isCallback.md",
     "6 - Full Notes/Programming/Libraries/React/Hooks/useCallback",
     "6 - Full Notes/Programming/Libraries/React/Hooks/useDeferredValue/Indicating Content is Stale.md",
     "6 - Full Notes/Programming/Libraries/React/Hooks/useDeferredValue/Deferring Re-Rendering a Part of UI.md",
     "6 - Full Notes/Programming/Libraries/React/Hooks/useDeferredValue/Fresh Content is Loading.md",
-    "6 - Full Notes/Programming/Libraries/React/Hooks/useDeferredValue/useDeferredValue.md",
     "6 - Full Notes/Programming/Libraries/React/Hooks/useDeferredValue",
-    "6 - Full Notes/Programming/Libraries/React/Hooks/useTransition/useTransition.md",
-    "6 - Full Notes/Programming/Libraries/React/Hooks/useTransition/Updating Parent Component in a Transition.md",
-    "6 - Full Notes/Programming/Libraries/React/Hooks/useTransition/Non-Blocking Transition.md",
     "6 - Full Notes/Programming/Libraries/React/Hooks/useTransition/Displaying a Pending Visual State During Transition.md",
     "6 - Full Notes/Programming/Libraries/React/Hooks/useTransition",
-    "6 - Full Notes/Programming/Libraries/React/Examples/Deferring Re-Rendering a Part of UI.md",
-    "6 - Full Notes/Programming/Libraries/React/Examples/Indicating Content is Stale.md",
     "6 - Full Notes/Programming/Libraries/React/Examples/Indicating Content is Stale.mdc",
-    "6 - Full Notes/Programming/Libraries/React/Examples/Fresh Content is Loading.md",
-    "6 - Full Notes/Programming/Libraries/React/Hooks/isCallback.md",
-    "1 - Rough Notes/isCallback.md",
-    "6 - Full Notes/Programming/Languages/JavaScript/Concepts/Jest.md",
-    "6 - Full Notes/Programming/Libraries/React/Examples/Displaying a Pending Visual State During Transition.md",
-    "6 - Full Notes/Programming/Libraries/React/Hooks/useTransition.md",
-    "6 - Full Notes/Displaying a Pending Visual State During Transition.md",
-    "6 - Full Notes/Programming/Libraries/React/Hooks/Hooks.md",
-    "6 - Full Notes/Programming/Libraries/React/Examples/Displaying a Pending Visual State During Transiton.md",
     "6 - Full Notes/Programming/Data Structures & Algorithms/Prefix Sum",
     "6 - Full Notes/Programming/Libraries/React/Examples",
     "6 - Full Notes/Programming/Libraries/React/Hooks",

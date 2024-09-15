@@ -4,7 +4,7 @@
 Tags: [[React]]
 
 ### Overview
-If you're writing a custom [[Hook]], it's recommended to wrap any functions that it retuns into `useCallback`.
+If you're writing a custom [[Hooks]], it's recommended to wrap any functions that it returns into `useCallback`.
 
 This ensures consumers of your Hook can optimize their own code when needed.
 

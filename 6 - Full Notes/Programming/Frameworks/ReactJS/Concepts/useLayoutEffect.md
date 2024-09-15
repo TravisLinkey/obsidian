@@ -1,7 +1,7 @@
 
 2024-08-09 18:54
 
-Tags: [[ReactJS]]
+Tags: [[React]]
 
 ### Overview
 This is a built in hook that fires before the browser repaints the screen.

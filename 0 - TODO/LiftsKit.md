@@ -6,18 +6,12 @@ Tags: [[TODO]]
 - [?] Verify Google Play account
 
 ### Bugs
-- [x] View History
-    - [x] Exercise list is small
-
-- [x] Add New Exercises
-    - [x] Hack Squat, Zombie Front Squat
-    
-- [ ] Freestyle workout
-    - [ ] Add `AddExerciseSegment`
-
+- [ ] Exercise switching
 
 ### Features
-- [ ] Release to Prod
+- Add supersets
+
+- [x] Release to Prod
     - [ ] Add "Buy me a coffee" link
 
 - [ ] One Rep Max
