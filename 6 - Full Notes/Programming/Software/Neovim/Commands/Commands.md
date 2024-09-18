@@ -78,6 +78,9 @@
 - **Sort highlighted lines:**  
   `:sort`
 
+- **Join two lines:**  
+  `J`
+
 ---
 
 ## Macros

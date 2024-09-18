@@ -6,14 +6,34 @@ Tags: [[TODO]]
 - [?] Verify Google Play account
 
 ### Bugs
-- [ ] Exercise switching
+- [x] Exercise switching
 
 ### Features
-- Add supersets
+- [x] Exercise complete strikethru
+
+- [ ] Add supersets
+    - [x] Remove superset
+    - [x] Switch superset order
+    - [x] Create Workout with superset
+
+    - [ ] Break superset
+    - [ ] UniqueId Workout Performed
+
+    - [ ] Test Workout Performed with superset
+    - [ ] Freestyle Workout with superset
+
+    - [ ] Migrate old workout performed
+        - orm_percent -> ormPercent
+
+    - [ ] Migrate old workout
+        - orm_percent -> ormPercent
+
+- [ ] Workout Progress bar
 
 - [x] Release to Prod
     - [ ] Add "Buy me a coffee" link
 
+### Later
 - [ ] One Rep Max
 - [ ] Analytics
 - [ ] Wallet 
