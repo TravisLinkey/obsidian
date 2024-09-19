@@ -15,16 +15,13 @@ Tags: [[TODO]]
     - [x] Remove superset
     - [x] Switch superset order
     - [x] Create Workout with superset
-
-    - [ ] Break superset
-    - [ ] UniqueId Workout Performed
-
-    - [ ] Test Workout Performed with superset
-    - [ ] Freestyle Workout with superset
+    - [x] Break superset
+    - [x] UniqueId Workout Performed
+    - [x] Test Workout Performed with superset
+    - [x] Freestyle Workout with superset
 
     - [ ] Migrate old workout performed
         - orm_percent -> ormPercent
-
     - [ ] Migrate old workout
         - orm_percent -> ormPercent
 
