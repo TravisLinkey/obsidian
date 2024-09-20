@@ -6,36 +6,24 @@ Tags: [[TODO]]
 - [?] Verify Google Play account
 
 ### Bugs
-- [x] Exercise switching
 
 ### Features
-- [x] Exercise complete strikethru
-
-- [ ] Add supersets
-    - [x] Remove superset
-    - [x] Switch superset order
-    - [x] Create Workout with superset
-    - [x] Break superset
-    - [x] UniqueId Workout Performed
-    - [x] Test Workout Performed with superset
-    - [x] Freestyle Workout with superset
-
-    - [ ] Migrate old workout performed
-        - orm_percent -> ormPercent
-    - [ ] Migrate old workout
-        - orm_percent -> ormPercent
-
-- [ ] Workout Progress bar
-
 - [x] Release to Prod
     - [ ] Add "Buy me a coffee" link
 
+- [ ] Edit Workout
+	- [ ] Delete Workout - refresh page
+	- [ ] Edit Superset workout
+
 ### Later
+- [ ] Live Chat App
+
 - [ ] One Rep Max
 - [ ] Analytics
 - [ ] Wallet 
 - [ ] Google sign in !
 
+- [ ] Workout Progress bar
 
 ### References
 - [[LiftsKit]]
