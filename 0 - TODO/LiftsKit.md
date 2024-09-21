@@ -3,17 +3,16 @@
 
 Tags: [[TODO]]
 
-- [?] Verify Google Play account
-
 ### Bugs
-
-### Features
-- [x] Release to Prod
-    - [ ] Add "Buy me a coffee" link
+- [ ] Create Workout - Create Exercise (components reloading too much)
+- [ ] E2E tests
 
 - [ ] Edit Workout
 	- [ ] Delete Workout - refresh page
-	- [ ] Edit Superset workout
+	- [ ] Delete Workout - not working?
+### Features
+- [x] Release to Prod
+    - [ ] Add "Buy me a coffee" link
 
 ### Later
 - [ ] Live Chat App
