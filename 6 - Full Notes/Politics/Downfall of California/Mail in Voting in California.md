@@ -5,9 +5,9 @@ Tags: [[Politics]]
 
 ### Mail in votes vs In Person Votes by party in California:
 - **70-80%** of mail-in votes supporting Democratics.
-- **50-60%** in person votess supporting Republican.
+- **50-60%** in person votes supporting Republican.
 
 ### References
 - [[Libralization of California]]
-- [[Crime in Caligornia]]
+- [[Crime in California]]
 

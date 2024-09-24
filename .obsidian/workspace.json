@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f2a86eca19c94b8d",
+        "id": "167de1d3c252bbec",
         "type": "tabs",
         "children": [
           {
-            "id": "686a52ec3e996947",
+            "id": "d2b0b1a291dbdd99",
             "type": "leaf",
             "state": {
               "type": "notification-dashboard-view",
@@ -16,7 +16,31 @@
             }
           },
           {
-            "id": "0e27f766e796427f",
+            "id": "07afad18c8bc997a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Full Notes/Programming/Problems/LeetCode/322. Coin Change.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e45cc80c910d8fbf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Full Notes/Programming/Problems/LeetCode/40. Combination Sum II.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ae27d63e9ce1b41d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -28,7 +52,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -201,44 +225,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0e27f766e796427f",
+  "active": "ae27d63e9ce1b41d",
   "lastOpenFiles": [
-    "6 - Full Notes/Politics/Downfall of California/Mail in Voting in California.md",
-    "6 - Full Notes/Politics/Downfall of California/4913",
-    "1 - Rough Notes/Replacement Theory.md",
-    "1 - Rough Notes/White Flight.md",
-    "6 - Full Notes/Politics/Downfall of California/Libralization of California.md",
-    "6 - Full Notes/Politics/Downfall of California/Crime in California.md",
-    "6 - Full Notes/Politics/Downfall of California/Downfall of California.md",
-    "6 - Full Notes/Politics/Downfall of California",
-    "6 - Full Notes/Politics/Downfall of California.md",
+    "6 - Full Notes/Philosophy/Conversations/Objective Morality From Divine Authority.md",
+    "1 - Rough Notes/Subjective vs. Objective Moral Foundations.md",
+    "6 - Full Notes/Philosophy/Fallacies/Ad Hominem.md",
+    "6 - Full Notes/Philosophy/Fallacies/Naturalistic Fallacy.md",
+    "6 - Full Notes/Philosophy/Philosophers/David Hume/Is Ought Gap.md",
+    "1 - Rough Notes/Is Ought Gap.md",
+    "6 - Full Notes/Philosophy/Philosophers/David Hume",
+    "1 - Rough Notes/Naturalistic Fallacy.md",
+    "1 - Rough Notes/Naturalistic Fallacy.mdn",
+    "6 - Full Notes/Programming/Problems/LeetCode/2707. Extra Characters in String.md",
+    "1 - Rough Notes/2707. Extra Characters in String.md",
+    "6 - Full Notes/Programming/Problems/LeetCode/322. Coin Change.md",
+    "1 - Rough Notes/440. K-th Smallest in Lexicographical Order.md",
+    "1 - Rough Notes/386. Lexicographical Numbers.md",
+    "1 - Rough Notes/214. Shortest Palindrome.md",
+    "6 - Full Notes/Programming/Concepts/MVC.md",
+    "6 - Full Notes/Programming/Design Patterns/Creational/Factory.md",
+    "4 - Indexes/Design Pattern.md",
+    "6 - Full Notes/Programming/Problems/LeetCode/40. Combination Sum II.md",
     "1 - Rough Notes/241. Different Ways to Add Parentheses.md",
-    "6 - Full Notes/Programming/Languages/Python/Packages/cmp_to_key.md",
-    "6 - Full Notes/Programming/Problems/LeetCode/179. Largest Number.md",
-    "1 - Rough Notes/cmp_to_key.md",
-    "1 - Rough Notes/179. Largest Number.md",
-    "6 - Full Notes/Programming/Software/Personal/Commands.md",
-    "1 - Rough Notes/Shortcuts.md",
-    "6 - Full Notes/Programming/Software/Personal/Shortcuts.md",
+    "6 - Full Notes/Programming/Problems/LeetCode/1105. Filing Bookcase Shelves.md",
+    "6 - Full Notes/Programming/Problems/LeetCode/Concepts/Lookup Table.md",
+    "6 - Full Notes/Programming/Data Structures & Algorithms/Dynamic Programming/Dynamic Programming.md",
+    "6 - Full Notes/Programming/Software/Obsidian/Deploy Plugin.md",
+    "4 - Indexes/Terraform.md",
+    "0 - TODO/LiftsKit.md",
+    "4 - Indexes/Politics.md",
+    "6 - Full Notes/Politics.md",
+    "6 - Full Notes/Politics/Downfall of California/4913",
+    "6 - Full Notes/Politics/Downfall of California",
     "6 - Full Notes/Programming/Software/Personal",
-    "6 - Full Notes/Programming/Concepts/Authorization.md",
-    "6 - Full Notes/Programming/Concepts/Authentication.md",
-    "1 - Rough Notes/Authentication.md",
-    "1 - Rough Notes/Authorization.md",
-    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Identity & Federation/Cognito/Identity Pool/Identity Pool.md",
-    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Identity & Federation/Cognito/User Pool/User Pool.md",
     "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Identity & Federation/Cognito/Identity Pool",
     "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Identity & Federation/Cognito/User Pool",
-    "6 - Full Notes/Programming/Libraries/React/Hooks/useCallback/useCallback.md",
-    "6 - Full Notes/Programming/Libraries/React/Hooks/useCallback/Updating State from a Memoized Callback.md",
-    "6 - Full Notes/Programming/Libraries/React/Hooks/useCallback/Skipping Re-Rendering of Components.md",
-    "0 - TODO/LiftsKit.md",
-    "6 - Full Notes/Programming/Libraries/React/Hooks/useDeferredValue/useDeferredValue.md",
     "6 - Full Notes/Programming/Libraries/React/Hooks/useMemo",
     "6 - Full Notes/Programming/Libraries/React/Hooks/useCallback/4913",
     "6 - Full Notes/Programming/Libraries/React/Hooks/useCallback",
-    "6 - Full Notes/Programming/Libraries/React/Hooks/useDeferredValue",
-    "6 - Full Notes/Programming/Libraries/React/Hooks/useTransition",
     "2 - Source Material/Gifs/ByteByteGo_AWS_Categories.gif",
     "2 - Source Material/Diagrams/Design Google Maps.png",
     "2 - Source Material/Diagrams/SQL_Query_Execution.png",

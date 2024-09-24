@@ -1,10 +1,21 @@
 
-2024-06-25 20:31
+2024-09-11 12:04
 
-Tag: [[Data Structures & Algorithms]]
+Tags: [[Binary]]
 
-### XOR Properties
+### Overview
+A binary operation where we compare two bits, and we return '1' if they do not match.
 
-1. Any number XORed with itself is 0
-2. Any number XORed with 0 is the number itself
-3. XOR is commutative and associative, meaning the order of operations does not matter.
+### Truth Table
+| a | b | a ^ b |
+| --------------- | --------------- | --------------- |
+| 0 | 0 | 0 |
+| 1 | 0 | 1 |
+| 0 | 1 | 1 |
+| 1 | 1 | 0 |
+
+#### Note: 1 ^ 1 = 0 
+
+### References
+- [[]]
+

@@ -4,15 +4,19 @@
 Tags: [[TODO]]
 
 ### Bugs
-- [ ] Create Workout - Create Exercise (components reloading too much)
-- [ ] E2E tests
+- [ ] Custom Hooks
+    - [ ] useProgramList
+    - [ ] useOfficialExercises
 
 - [ ] Edit Workout
-	- [ ] Delete Workout - refresh page
-	- [ ] Delete Workout - not working?
+    - [ ] Select Program not showing
+
+- [ ] Create Workout - Create Exercise (components reloading too much)
+
+
 ### Features
-- [x] Release to Prod
-    - [ ] Add "Buy me a coffee" link
+- [ ] Add "Buy me a coffee" link
+- [ ] Add Contact Me in App
 
 ### Later
 - [ ] Live Chat App
