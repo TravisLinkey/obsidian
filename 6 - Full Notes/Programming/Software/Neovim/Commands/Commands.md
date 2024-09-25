@@ -20,6 +20,9 @@
 - **Go to the end of the line:**  
   ```$```
 
+- **Go to the middle of the line:**  
+  ```gM```
+
 - **Jump between (), [], {}, etc**  
   `%`
 

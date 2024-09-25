@@ -4,15 +4,7 @@
 Tags: [[TODO]]
 
 ### Bugs
-- [ ] Custom Hooks
-    - [ ] useProgramList
-    - [ ] useOfficialExercises
-
-- [ ] Edit Workout
-    - [ ] Select Program not showing
-
 - [ ] Create Workout - Create Exercise (components reloading too much)
-
 
 ### Features
 - [ ] Add "Buy me a coffee" link
