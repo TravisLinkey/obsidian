@@ -216,17 +216,22 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "note-reviewer:Open Notification Dashboard": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "note-reviewer:Open Notification Dashboard": false
     }
   },
   "active": "ae27d63e9ce1b41d",
   "lastOpenFiles": [
+    "6 - Full Notes/Programming/Software/Git/Error Fixes/Pushing Issues.md",
+    "6 - Full Notes/Programming/Software/Git/Error Fixes/Errors.md",
+    "6 - Full Notes/Programming/Software/Git/Error Fixes/Added Private Files.md",
+    "6 - Full Notes/Programming/Software/Git/Error Fixes",
+    "1 - Rough Notes/Pushing Issues.md",
     "6 - Full Notes/Programming/Problems/LeetCode/3043. Find the Length of the Longest Common Prefix.md",
     "1 - Rough Notes/Objective Morality From Divine Authority.md",
     "1 - Rough Notes/Orthodox Christian Moral Objectivity Claims.md",
@@ -251,10 +256,6 @@
     "6 - Full Notes/Programming/Design Patterns/Creational/Factory.md",
     "4 - Indexes/Design Pattern.md",
     "6 - Full Notes/Programming/Problems/LeetCode/40. Combination Sum II.md",
-    "1 - Rough Notes/241. Different Ways to Add Parentheses.md",
-    "6 - Full Notes/Programming/Problems/LeetCode/1105. Filing Bookcase Shelves.md",
-    "6 - Full Notes/Programming/Problems/LeetCode/Concepts/Lookup Table.md",
-    "6 - Full Notes/Programming/Data Structures & Algorithms/Dynamic Programming/Dynamic Programming.md",
     "6 - Full Notes/Politics/Downfall of California/4913",
     "6 - Full Notes/Politics/Downfall of California",
     "6 - Full Notes/Programming/Software/Personal",
@@ -262,7 +263,6 @@
     "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Identity & Federation/Cognito/User Pool",
     "6 - Full Notes/Programming/Libraries/React/Hooks/useMemo",
     "6 - Full Notes/Programming/Libraries/React/Hooks/useCallback/4913",
-    "6 - Full Notes/Programming/Libraries/React/Hooks/useCallback",
     "2 - Source Material/Gifs/ByteByteGo_AWS_Categories.gif",
     "2 - Source Material/Diagrams/Design Google Maps.png",
     "2 - Source Material/Diagrams/SQL_Query_Execution.png",
