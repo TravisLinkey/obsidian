@@ -1,10 +1,14 @@
 
 # Table of Contents
 
-1. [Bluetooth](#bluetooth)
+1. [Audio](#audio)
+2. [Bluetooth](#bluetooth)
 
 
 ---
+
+## Audio
+- [[Audio]]
 
 ## Bluetooth
 - [[Pairing Bluetooth]]
