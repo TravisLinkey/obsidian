@@ -52,12 +52,12 @@
             }
           },
           {
-            "id": "a1496f5771e53e4b",
+            "id": "4d4ec3e7bdf44345",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Full Notes/Private/Credentials/git.md",
+                "file": "6 - Full Notes/Programming/Data Structures & Algorithms/Analysis/Big O.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6 - Full Notes/Private/Credentials/git.md",
+                "file": "6 - Full Notes/Programming/Data Structures & Algorithms/Analysis/Big O.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6 - Full Notes/Private/Credentials/git.md",
+                "file": "6 - Full Notes/Programming/Data Structures & Algorithms/Analysis/Big O.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6 - Full Notes/Private/Credentials/git.md"
+                "file": "6 - Full Notes/Programming/Data Structures & Algorithms/Analysis/Big O.md"
               }
             }
           },
@@ -237,8 +237,12 @@
       "note-reviewer:Open Notification Dashboard": false
     }
   },
-  "active": "a1496f5771e53e4b",
+  "active": "4d4ec3e7bdf44345",
   "lastOpenFiles": [
+    "1 - Rough Notes/567. Permutation in String.md",
+    "6 - Full Notes/Programming/Data Structures & Algorithms/Analysis/Big O.md",
+    "0 - TODO/LiftsKit.md",
+    "6 - Full Notes/Private/Credentials/git.md",
     "1 - Rough Notes/4913",
     "6 - Full Notes/Programming/Software/Arch/Packages",
     "1 - Rough Notes/git-credential-github.md",
@@ -248,7 +252,6 @@
     "6 - Full Notes/Programming/Software/Arch/Audio",
     "6 - Full Notes/Programming/Software/Arch/Commands/Audio.md",
     "1 - Rough Notes/Audio.md",
-    "0 - TODO/LiftsKit.md",
     "6 - Full Notes/Programming/Software/Git/Error Fixes/Pushing Issues.md",
     "6 - Full Notes/Programming/Software/Git/Error Fixes/Errors.md",
     "6 - Full Notes/Programming/Software/Git/Error Fixes/Added Private Files.md",
@@ -268,13 +271,10 @@
     "6 - Full Notes/Philosophy/Philosophers/David Hume",
     "1 - Rough Notes/Naturalistic Fallacy.md",
     "1 - Rough Notes/Naturalistic Fallacy.mdn",
-    "6 - Full Notes/Programming/Problems/LeetCode/2707. Extra Characters in String.md",
-    "1 - Rough Notes/2707. Extra Characters in String.md",
     "6 - Full Notes/Politics/Downfall of California/4913",
     "6 - Full Notes/Politics/Downfall of California",
     "6 - Full Notes/Programming/Software/Personal",
     "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Identity & Federation/Cognito/Identity Pool",
-    "6 - Full Notes/Programming/Services/Cloud/AWS/Services/Identity & Federation/Cognito/User Pool",
     "2 - Source Material/Gifs/ByteByteGo_AWS_Categories.gif",
     "2 - Source Material/Diagrams/Design Google Maps.png",
     "2 - Source Material/Diagrams/SQL_Query_Execution.png",
